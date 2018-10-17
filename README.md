@@ -14,3 +14,5 @@ To control for these factors, I took every drive from FBS vs FBS games this seas
 Teams' initial offensive and defensive adjusted points per drive (aOPPD and aDPPD) are computed by taking the average PRE of all of that unit's possessions (a positive rating is good for offenses and bad for defenses). Then, each drive's PRE is used to compute an opponent-adjusted PRE for both the offense the the defense by subtracting the relevant opponent's rating from the base PRE. The base offensive and defensive ratings are recalculated based on the opponent-adjusted PREs. This process is repeated until the changes in team ratings are negligible (a similar formula to Sports-Reference's Simple Rating System).
 
 What I hope to accomplish with this stat is a metric with the robustness of "advanced" stats while still being as understandable and approachable for the average fan as a typical box score stat. This isn't a machine-learning powered predictor of future performance; it's a simple measure of how well an offense or defense has done its job so far.
+
+See current ratings for all FBS schools in Data/teams_aPPD.tsv .
