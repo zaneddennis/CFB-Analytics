@@ -1,130 +1,130 @@
-team|aOPPD|aDPPD|net_aPPD
-Alabama|1.65|-1.44|3.09
-Georgia|1.52|-1.32|2.84
-Clemson|0.84|-1.35|2.19
-Michigan|0.92|-1.27|2.18
-Mississippi State|0.99|-1.19|2.18
-Florida|0.72|-1.4|2.12
-Kentucky|0.42|-1.59|2.01
-LSU|1.05|-0.92|1.97
-Oklahoma|1.94|0.02|1.92
-Ohio State|1.36|-0.49|1.85
-Iowa|0.85|-0.99|1.84
-Penn State|0.89|-0.8|1.69
-Texas A&M|0.93|-0.72|1.65
-West Virginia|0.96|-0.59|1.55
-Army|1.23|-0.32|1.55
-South Carolina|0.69|-0.76|1.45
-Washington|0.79|-0.56|1.35
-Notre Dame|0.49|-0.85|1.34
-NC State|0.84|-0.48|1.32
-Iowa State|0.46|-0.8|1.27
-Missouri|0.68|-0.57|1.25
-Appalachian State|0.55|-0.63|1.17
-Texas|0.7|-0.44|1.13
-Utah State|0.98|-0.11|1.09
-Auburn|-0.16|-1.19|1.04
-Utah|0.07|-0.94|1.01
-Michigan State|-0.03|-1.02|0.98
-UCF|1.12|0.15|0.97
-Washington State|1.31|0.34|0.97
-Miami|-0.2|-1.13|0.93
-Wisconsin|0.82|-0.1|0.92
-Duke|-0.23|-1.11|0.88
-Texas Tech|0.75|-0.03|0.78
-Purdue|0.59|-0.17|0.76
-TCU|-0.61|-1.35|0.73
-North Texas|0.17|-0.56|0.73
-Vanderbilt|0.66|-0.07|0.72
-Maryland|0.06|-0.62|0.68
-Colorado|0.42|-0.24|0.67
-Ole Miss|0.87|0.21|0.67
-Tennessee|0.4|-0.23|0.62
-Boston College|0.03|-0.6|0.62
-Temple|-0.06|-0.64|0.58
-Georgia Tech|1.1|0.52|0.58
-Boise State|0.39|-0.16|0.55
-Arizona State|0.85|0.3|0.55
-Kansas State|0.13|-0.4|0.53
-Oklahoma State|0.6|0.08|0.52
-San Diego State|-0.47|-0.92|0.46
-Stanford|0.51|0.06|0.45
-Northwestern|0.06|-0.38|0.45
-Fresno State|-0.14|-0.56|0.43
-Baylor|0.63|0.22|0.41
-Virginia|-0.04|-0.39|0.34
-USC|-0.25|-0.59|0.34
-Buffalo|0.51|0.2|0.31
-Cincinnati|-0.36|-0.66|0.3
-Oregon|0.39|0.16|0.23
-Arkansas|0.03|-0.15|0.18
-Minnesota|0.01|-0.14|0.15
-Kansas|-0.39|-0.51|0.11
-Indiana|0.21|0.14|0.07
-Houston|0.42|0.44|-0.01
-Florida State|-0.49|-0.43|-0.06
-Liberty|-0.18|-0.07|-0.12
-Memphis|0.12|0.28|-0.15
-Syracuse|-0.21|-0.05|-0.16
-Western Michigan|0.6|0.78|-0.18
-Louisiana Tech|-0.22|-0.03|-0.2
-Akron|-0.82|-0.62|-0.2
-New Mexico|0.03|0.25|-0.22
-Eastern Michigan|-0.46|-0.23|-0.22
-UCLA|0.13|0.38|-0.25
-Central Michigan|-0.21|0.06|-0.27
-Northern Illinois|-0.77|-0.47|-0.3
-UAB|-0.6|-0.26|-0.33
-Miami (OH)|-0.07|0.27|-0.34
-Florida International|0.03|0.38|-0.35
-Virginia Tech|-0.31|0.04|-0.35
-Pittsburgh|-0.49|-0.09|-0.4
-Air Force|-0.44|-0.02|-0.42
-BYU|-0.12|0.32|-0.45
-Nebraska|-0.29|0.22|-0.51
-Wake Forest|-0.01|0.51|-0.52
-Colorado State|-0.24|0.28|-0.52
-Tulane|-0.34|0.25|-0.59
-Southern Mississippi|-0.53|0.1|-0.63
-Arkansas State|-0.61|0.02|-0.63
-Troy|-0.57|0.09|-0.66
-Hawai'i|0.48|1.15|-0.67
-South Florida|-0.39|0.31|-0.7
-Ohio|0.55|1.26|-0.71
-Georgia Southern|-0.32|0.41|-0.72
-Arizona|-0.35|0.42|-0.77
-Wyoming|-0.94|-0.16|-0.79
-Tulsa|-0.8|0.03|-0.82
-Ball State|-0.26|0.59|-0.85
-Marshall|-0.66|0.23|-0.9
-Toledo|0.48|1.49|-1.01
-Florida Atlantic|-0.35|0.71|-1.05
-UNLV|-0.31|0.74|-1.05
-Navy|-0.45|0.64|-1.09
-Nevada|-1.17|-0.07|-1.1
-East Carolina|-1.07|0.19|-1.26
-SMU|-0.6|0.69|-1.29
-Middle Tennessee|-0.65|0.67|-1.31
-Louisville|-0.53|0.78|-1.32
-Illinois|-0.37|0.97|-1.34
-Georgia State|-0.47|0.94|-1.4
-California|-1.78|-0.31|-1.47
-Rutgers|-1.12|0.39|-1.51
-Coastal Carolina|0.22|1.75|-1.53
-Louisiana|0.4|1.94|-1.54
-San José State|-1.65|-0.09|-1.56
-Western Kentucky|-1.18|0.41|-1.59
-South Alabama|-0.62|0.98|-1.61
-UTEP|-0.68|0.94|-1.63
-Bowling Green|-0.63|1.05|-1.68
-Old Dominion|-0.26|1.43|-1.7
-North Carolina|-0.61|1.2|-1.81
-Kent State|-0.91|0.92|-1.83
-UT San Antonio|-1.28|0.56|-1.85
-Charlotte|-0.88|1.01|-1.89
-Louisiana Monroe|-0.87|1.04|-1.91
-UMass|-0.44|1.56|-2.0
-Oregon State|-0.23|1.9|-2.14
-Texas State|-1.84|0.35|-2.19
-Rice|-1.55|0.99|-2.54
-Connecticut|-0.81|2.51|-3.31
+|team|off_aPPD|def_aPPD|net_aPPD|AP
+1|Alabama|1.7|-1.5|3.21|1
+2|Georgia|1.65|-1.36|3.01|7
+3|Clemson|0.91|-1.4|2.3|2
+4|Michigan|0.92|-1.29|2.21|5
+5|Mississippi State|0.78|-1.42|2.2|NR
+6|Florida|0.85|-1.32|2.18|9
+7|LSU|0.92|-1.2|2.12|4
+8|Oklahoma|2.14|0.12|2.03|8
+9|Kentucky|0.36|-1.63|1.99|12
+10|Texas A&M|1.02|-0.73|1.75|16
+11|Iowa|0.68|-1.05|1.73|18
+12|Missouri|1.06|-0.6|1.66|NR
+13|South Carolina|0.82|-0.82|1.64|NR
+14|Washington|0.81|-0.75|1.56|15
+15|West Virginia|0.92|-0.57|1.49|13
+16|Notre Dame|0.58|-0.8|1.38|3
+17|Penn State|0.77|-0.55|1.32|17
+18|Purdue|0.81|-0.5|1.32|NR
+19|Utah|0.39|-0.84|1.23|23
+20|Ohio State|0.96|-0.27|1.23|11
+21|Auburn|0.07|-1.14|1.21|NR
+22|NC State|0.69|-0.5|1.2|22
+23|Washington State|1.35|0.17|1.18|14
+24|Miami|0.04|-1.1|1.14|NR
+25|Army|1.02|-0.1|1.13|NR
+26|Iowa State|0.36|-0.76|1.12|NR
+27|Texas Tech|0.86|-0.16|1.02|NR
+28|Texas|0.65|-0.36|1.01|6
+29|UCF|1.11|0.1|1.01|10
+30|Wisconsin|0.69|-0.21|0.9|20
+31|Vanderbilt|0.62|-0.22|0.84|NR
+32|Michigan State|-0.1|-0.93|0.83|NR
+33|Appalachian State|0.06|-0.75|0.8|25
+34|Utah State|0.5|-0.25|0.75|NR
+35|Ole Miss|0.97|0.23|0.75|NR
+36|Tennessee|0.49|-0.23|0.72|NR
+37|Boston College|0.14|-0.58|0.72|NR
+38|Boise State|0.48|-0.24|0.71|NR
+39|Fresno State|0.12|-0.59|0.71|NR
+40|Virginia|0.2|-0.49|0.69|NR
+41|Duke|-0.2|-0.88|0.68|NR
+42|Colorado|0.34|-0.33|0.67|NR
+43|North Texas|0.25|-0.31|0.56|NR
+44|Temple|0.01|-0.52|0.53|NR
+45|Stanford|0.27|-0.23|0.5|24
+46|Georgia Tech|0.99|0.5|0.5|NR
+47|Kansas State|0.16|-0.31|0.48|NR
+48|Cincinnati|-0.28|-0.74|0.45|NR
+49|Arizona State|0.61|0.2|0.42|NR
+50|Maryland|-0.25|-0.67|0.42|NR
+51|Oklahoma State|0.52|0.11|0.41|NR
+52|TCU|-0.61|-1.02|0.4|NR
+53|Baylor|0.52|0.21|0.31|NR
+54|USC|-0.14|-0.45|0.31|NR
+55|San Diego State|-0.42|-0.72|0.3|NR
+56|Indiana|0.31|0.04|0.27|NR
+57|Northwestern|-0.15|-0.42|0.27|NR
+58|Arkansas|-0.04|-0.29|0.25|NR
+59|Oregon|0.34|0.12|0.22|19
+60|Florida State|-0.41|-0.55|0.14|NR
+61|Houston|0.66|0.55|0.11|NR
+62|Buffalo|0.05|-0.02|0.07|NR
+63|Nebraska|0.16|0.16|-0.01|NR
+64|Western Michigan|0.45|0.47|-0.03|NR
+65|UAB|-0.28|-0.22|-0.06|NR
+66|UCLA|0.21|0.28|-0.07|NR
+67|Eastern Michigan|-0.18|-0.11|-0.08|NR
+68|Ohio|0.95|1.09|-0.14|NR
+69|Northern Illinois|-0.75|-0.55|-0.19|NR
+70|Liberty|-0.28|-0.05|-0.23|NR
+71|Virginia Tech|-0.24|-0.01|-0.24|NR
+72|Syracuse|-0.32|-0.07|-0.25|NR
+73|Miami (OH)|-0.08|0.17|-0.25|NR
+74|Florida International|0.26|0.51|-0.26|NR
+75|Kansas|-0.51|-0.21|-0.3|NR
+76|Louisiana Tech|-0.37|-0.05|-0.32|NR
+77|Memphis|0.15|0.48|-0.33|NR
+78|Wyoming|-0.88|-0.52|-0.36|NR
+79|BYU|0.03|0.42|-0.39|NR
+80|Troy|-0.38|0.02|-0.4|NR
+81|Pittsburgh|-0.44|-0.04|-0.41|NR
+82|Minnesota|-0.06|0.43|-0.49|NR
+83|Air Force|-0.18|0.31|-0.5|NR
+84|New Mexico|-0.08|0.43|-0.51|NR
+85|Colorado State|-0.24|0.3|-0.54|NR
+86|Akron|-0.79|-0.24|-0.55|NR
+87|Arkansas State|-0.35|0.21|-0.56|NR
+88|Wake Forest|-0.05|0.52|-0.57|NR
+89|Central Michigan|-0.47|0.11|-0.58|NR
+90|Southern Mississippi|-0.66|-0.03|-0.63|NR
+91|Arizona|-0.4|0.26|-0.66|NR
+92|Georgia Southern|-0.29|0.38|-0.67|NR
+93|Tulane|-0.59|0.13|-0.73|NR
+94|Toledo|0.17|0.97|-0.8|NR
+95|Ball State|-0.2|0.61|-0.82|NR
+96|Nevada|-1.02|-0.18|-0.83|NR
+97|Marshall|-0.78|0.07|-0.85|NR
+98|Hawai'i|0.34|1.2|-0.86|NR
+99|Tulsa|-1.02|-0.11|-0.91|NR
+100|California|-1.48|-0.54|-0.94|NR
+101|South Florida|-0.41|0.56|-0.97|21
+102|Florida Atlantic|-0.57|0.5|-1.07|NR
+103|UNLV|-0.13|1.0|-1.13|NR
+104|Louisiana|0.42|1.57|-1.16|NR
+105|Louisville|-0.47|0.72|-1.19|NR
+106|East Carolina|-1.21|0.01|-1.22|NR
+107|Illinois|-0.42|0.81|-1.23|NR
+108|Navy|-0.46|0.79|-1.25|NR
+109|SMU|-0.78|0.48|-1.26|NR
+110|Coastal Carolina|0.06|1.35|-1.29|NR
+111|North Carolina|-0.53|0.79|-1.32|NR
+112|UTEP|-0.67|0.71|-1.38|NR
+113|Middle Tennessee|-0.83|0.57|-1.4|NR
+114|San José State|-1.44|0.02|-1.46|NR
+115|Rutgers|-1.06|0.45|-1.51|NR
+116|Western Kentucky|-1.05|0.47|-1.52|NR
+117|Georgia State|-0.32|1.2|-1.53|NR
+118|Kent State|-0.75|0.84|-1.59|NR
+119|Old Dominion|-0.16|1.47|-1.64|NR
+120|Charlotte|-0.94|0.74|-1.68|NR
+121|Louisiana Monroe|-0.73|1.01|-1.75|NR
+122|UT San Antonio|-1.25|0.59|-1.83|NR
+123|South Alabama|-0.64|1.24|-1.88|NR
+124|UMass|-0.61|1.29|-1.9|NR
+125|Bowling Green|-0.52|1.42|-1.94|NR
+126|Texas State|-1.85|0.43|-2.28|NR
+127|Rice|-1.46|1.03|-2.5|NR
+128|Oregon State|-0.34|2.19|-2.54|NR
+129|Connecticut|-0.67|2.29|-2.96|NR
