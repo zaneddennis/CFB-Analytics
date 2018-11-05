@@ -1,6 +1,6 @@
 # Zane's CFB Analytics Projects
 
-This repo contains several python notebooks and other files that I'm using in college football analytics projects.
+This repo contains several python notebooks and other files that I'm using in college football analytics projects. All numbers in this readme are accurate through 10/18/2018. Numbers in the files mentioned are accurate through whatever the file's Last Modified date is.
 
 ## Current Project: Adjusted Per-Drive Metrics
 For decades, the most common statistics used to judge the quality of individual offenses and defenses were yards/game and points/game. While these numbers are fairly adequate surrogate metrics in most cases, in today's world of radically differing paces of play, they often fall short of properly grading any given offensive or defensive performance. As the length of a football game is determined by a game clock rather than by a set number of chances, faster-paced and passing-based offenses benefit unfairly in per-game stats relative to slower-paced or running-based offenses.
@@ -19,4 +19,4 @@ See current ratings for all FBS schools in Data/teams_aPPD.tsv .
 
 These rankings end up looking a lot like FPI, with the biggest exception being that aPPD rates teams like Army and Georgia Tech much higher offensively. Why? Because FPI calculates its rankings based on per-play statistics, which unfairly discriminates against run-heavy teams. In reality, a 14 play, 80 yard touchdown drive is just as good as a 4 play, 80 yard touchdown drive.
 
-This is partially inspired by Max Olson's Stop Rate statistics he's been tracking the last couple seasons; I decided to take the idea a bit further, and I'd like to publish weekly updates if there is interest.
+This is partially inspired by Max Olson's Stop Rate statistics he's been tracking the last couple seasons; I decided to take the idea a bit further, and I have a few related things on the way!
