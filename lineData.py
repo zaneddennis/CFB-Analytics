@@ -17,7 +17,7 @@ def __removeRanking(s):
     return re.sub(r"\(\d\d?\) ", r"", s)
 
 
-def getLines(date):
+def getSpreads(date):
     gameDivClasses = ["_3A-gC _2DWLf _3zKaX", "_3A-gC _2DWLf _3zKaX _1BrlL", "_3A-gC _2DWLf _3zKaX _1BrlL _1Mxxm", "_3A-gC _2DWLf _3zKaX _1Mxxm"]
 
     page = requests.get("https://www.sportsbookreview.com/betting-odds/college-football/pointspread/?date=" + str(date))
@@ -48,14 +48,40 @@ def getLines(date):
     return games_df
 
 
-def test():
-    try:
-        x = 1/0
-    except:
-        print("caught the exception")
+def getMoneyLines(date):
+    gameDivClasses = ["_3A-gC _2DWLf _3zKaX", "_3A-gC _2DWLf _3zKaX _1BrlL", "_3A-gC _2DWLf _3zKaX _1BrlL _1Mxxm", "_3A-gC _2DWLf _3zKaX _1Mxxm"]
+
+    page = requests.get("https://www.sportsbookreview.com/betting-odds/college-football/money-line/?date=" + str(date))
+    soup = BeautifulSoup(page.content, "lxml")
+
+    games = []
+    for c in gameDivClasses:
+        games.extend(soup.find_all("div", class_=c))
+
+    games_df = pd.DataFrame(columns=["away_team", "home_team", "money_line"])
+    for game in games:
+        row = {}
+
+        teams_html = game.find_all("span", class_="_1ekCo")
+        row["away_team"] = util.translateName(__removeRanking(teams_html[0].get_text()))
+        row["home_team"] = util.translateName(__removeRanking(teams_html[1].get_text()))
+
+        lines_html = game.find_all("span", class_="_1QEDd")
+        try:
+            row["money_line"] = lines_html[3].get_text()
+        except IndexError:
+            row["money_line"] = "N/A"
+
+        games_df = games_df.append(row, ignore_index=True)
+
+    return games_df
 
 
 pd.set_option('display.max_columns', 500)  # prints the df properly in console instead of splitting up columns
 pd.set_option('display.width', 1000)
 
-#test()
+# lines = getMoneyLines("20181110")
+# print(lines)
+
+# spreads = getSpreads("20181110")
+# print(spreads)

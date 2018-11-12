@@ -21,3 +21,22 @@ def translateName(school):
         return names[school]
     else:
         return school
+
+
+# assumes 1.00 unit stake
+# american odds format
+# pct should be 0 <= x <= 1
+def expectedValue(odds, pct):
+    odds = int(odds)
+    winProfit = ""
+
+    if odds > 0:
+        winProfit = odds * 0.01
+
+    elif odds < 0:
+        winProfit = 100 / abs(odds)
+
+    else:
+        assert False
+
+    return (winProfit * pct) - (1 - pct)

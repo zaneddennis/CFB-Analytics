@@ -61,7 +61,6 @@ def __calcPoints(dr):
 def __cleanDriveData(dirty, season, weekThrough):
     clean = dirty[(dirty.offense_conference.notnull()) & (dirty.defense_conference.notnull())]
 
-    #games = pd.read_json("Data/allgames" + str(season) + ".json")
     games = pd.read_json("https://api.collegefootballdata.com/games?year=" + str(season))
     games = games[["id", "week"]]
     games.columns = ["game_id", "week"]
@@ -72,10 +71,13 @@ def __cleanDriveData(dirty, season, weekThrough):
     clean = clean[["offense", "defense", "week", "game_id", "id", "plays", "start_yardline", "yards", "end_yardline", "drive_result"]]
 
     # fix bad data
-    clean = clean[clean.game_id != 401013346]  # Ohio State vs Tulane
+    clean = clean[clean.game_id != 401013346]  # Ohio State vs Tulane 2018
+    clean = clean[clean.game_id != 400869533]  # Tulsa SMU 2016
     clean = clean[clean.id != 4010128564]  # completely wrong drive in Indiana vs Iowa
     clean = clean[clean.id != 40094526122]  # weirdly catalogued OT drive in Hawaii vs Wyoming
     clean.loc[clean.id == 40093456823, "drive_result"] = "END OF 4TH QUARTER"
+    clean.loc[clean.id == 4008696135, "drive_result"] = "INT TD"
+    clean.loc[clean.id == 40086912120, "drive_result"] = "FUMBLE TD"
 
     clean = clean[clean.week <= weekThrough]
 
@@ -90,6 +92,9 @@ def __cleanDriveData(dirty, season, weekThrough):
         assert(False)
 
     clean = clean[(clean.drive_result != "Uncategorized") & (clean.drive_result != "END OF HALF") & (clean.drive_result != "END OF GAME") & (clean.drive_result != "KICKOFF") & (clean.drive_result != "END of 4TH QUARTER")]
+
+    #if not includeGarbage:
+    #    pass
 
     return clean.copy()
 
@@ -172,7 +177,7 @@ def calculateAll(season, weekThrough, store=False):
     return teams_df.copy()
 
 
-def predictGame(away, home, season, weekThrough, hfa=False):
+"""def predictGame(away, home, season, weekThrough, hfa=False):
     drives_df = pd.read_json("https://api.collegefootballdata.com/drives?year=" + str(season))
     drives_df = __cleanDriveData(drives_df, season, weekThrough)
 
@@ -187,7 +192,7 @@ def predictGame(away, home, season, weekThrough, hfa=False):
     gamePace = (teams_df.at[away, "pace"] + teams_df.at[home, "pace"]) / 2.0
     result = (teams_df.at[away, "net_aPPD"] - teams_df.at[home, "net_aPPD"]) * gamePace
 
-    return result
+    return result"""
 
 
 # games is a tuple of (away_team, home_team) columns
@@ -224,4 +229,7 @@ def predictGames(games, season, weekThrough, hfa=False):
 pd.set_option('display.max_columns', 500)  # prints the df properly in console instead of splitting up columns
 pd.set_option('display.width', 1000)
 
-#calculateAll(2018, 3, store=True)
+# calculateAll(2016, 7, store=True)
+# drives_df = pd.read_json("https://api.collegefootballdata.com/drives?year=2018")
+# drives_df = __cleanDriveData(drives_df, 2018, 11, includeGarbage=True)
+# print(drives_df)
