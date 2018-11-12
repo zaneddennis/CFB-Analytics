@@ -58,7 +58,7 @@ def __calcPoints(dr):
         return 0
 
 
-def __cleanDriveData(dirty, season, weekThrough):
+def __cleanDriveData(dirty, season, weekThrough, includeGarbage=True):
     clean = dirty[(dirty.offense_conference.notnull()) & (dirty.defense_conference.notnull())]
 
     games = pd.read_json("https://api.collegefootballdata.com/games?year=" + str(season))
@@ -68,7 +68,7 @@ def __cleanDriveData(dirty, season, weekThrough):
     clean = pd.merge(clean, games, how="left", on="game_id")
 
     clean = clean.sort_values(by=["game_id", "start_period"])
-    clean = clean[["offense", "defense", "week", "game_id", "id", "plays", "start_yardline", "yards", "end_yardline", "drive_result"]]
+    clean = clean[["offense", "defense", "week", "game_id", "id", "start_period", "plays", "start_yardline", "yards", "end_yardline", "drive_result"]]
 
     # fix bad data
     clean = clean[clean.game_id != 401013346]  # Ohio State vs Tulane 2018
@@ -89,19 +89,37 @@ def __cleanDriveData(dirty, season, weekThrough):
         r_df = r_df[r_df.drive_result != r]
     if len(r_df) != 0:
         print(r_df)
-        assert(False)
+        assert False
 
     clean = clean[(clean.drive_result != "Uncategorized") & (clean.drive_result != "END OF HALF") & (clean.drive_result != "END OF GAME") & (clean.drive_result != "KICKOFF") & (clean.drive_result != "END of 4TH QUARTER")]
+    clean = clean.copy()
 
-    #if not includeGarbage:
-    #    pass
+    if not includeGarbage:
+        clean["isGarbage"] = 0
 
-    return clean.copy()
+        plays = {}
+        for w in range(1, weekThrough+1):
+            plays[w] = pd.read_json("https://api.collegefootballdata.com/plays?year=" + str(season) + "&week=" + str(w))
+
+        for index, row in clean.iterrows():
+            if row["start_period"] == 4:
+                weekPlays = plays[row["week"]]
+
+                offScore = weekPlays.loc[weekPlays.drive_id == row["id"], "offense_score"].iat[0]
+                defScore = weekPlays.loc[weekPlays.drive_id == row["id"], "defense_score"].iat[0]
+
+                if abs(offScore - defScore) >= 21:
+                    clean.at[index, "isGarbage"] = 1
+
+        clean = clean[clean.isGarbage != 1]
+        clean = clean.drop(columns=["isGarbage"])
+
+    return clean.reset_index(drop=True)
 
 
 def calculateAll(season, weekThrough, store=False):
     df = pd.read_json("https://api.collegefootballdata.com/drives?year=" + str(season))
-    df = __cleanDriveData(df, season, weekThrough)
+    df = __cleanDriveData(df, season, weekThrough, includeGarbage=True)
 
     df["points"] = 0
     for index, row in df.iterrows():
@@ -203,7 +221,7 @@ def predictGames(games, season, weekThrough, hfa=False):
     assert(len(aways) == len(homes))
 
     drives_df = pd.read_json("https://api.collegefootballdata.com/drives?year=" + str(season))
-    drives_df = __cleanDriveData(drives_df, season, weekThrough)
+    drives_df = __cleanDriveData(drives_df, season, weekThrough, includeGarbage=True)
 
     teams_df = pd.read_csv("Data/teams_aPPD_w" + str(weekThrough) + "_" + str(season) + ".tsv", sep="\t", index_col="team")
 
@@ -230,6 +248,3 @@ pd.set_option('display.max_columns', 500)  # prints the df properly in console i
 pd.set_option('display.width', 1000)
 
 # calculateAll(2016, 7, store=True)
-# drives_df = pd.read_json("https://api.collegefootballdata.com/drives?year=2018")
-# drives_df = __cleanDriveData(drives_df, 2018, 11, includeGarbage=True)
-# print(drives_df)
