@@ -119,7 +119,7 @@ def __cleanDriveData(dirty, season, weekThrough, includeGarbage=True):
 
 def calculateAll(season, weekThrough, store=False):
     df = pd.read_json("https://api.collegefootballdata.com/drives?year=" + str(season))
-    df = __cleanDriveData(df, season, weekThrough, includeGarbage=True)
+    df = __cleanDriveData(df, season, weekThrough, includeGarbage=False)
 
     df["points"] = 0
     for index, row in df.iterrows():
