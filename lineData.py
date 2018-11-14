@@ -81,8 +81,8 @@ def getMoneyLines(date):
 pd.set_option('display.max_columns', 500)  # prints the df properly in console instead of splitting up columns
 pd.set_option('display.width', 1000)
 
-lines = getMoneyLines("20181110")
+"""lines = getMoneyLines("20181110")
 print(lines)
 
 spreads = getSpreads("20181110")
-print(spreads)
+print(spreads)"""
