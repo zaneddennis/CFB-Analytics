@@ -15,7 +15,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CFB$aPPD.coverage" NAME="aPPD Coverage Results" MODIFIED="1542071844905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CFB$lineData.coverage" NAME="lineData Coverage Results" MODIFIED="1542070493716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CFB$lineData.coverage" NAME="lineData Coverage Results" MODIFIED="1542215972072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="734281141">
@@ -212,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aPPD">
+  <component name="RunManager" selected="Python.lineData">
     <configuration name="aPPD" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CFB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,8 +263,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aPPD" />
         <item itemvalue="Python.lineData" />
+        <item itemvalue="Python.aPPD" />
       </list>
     </recent_temporary>
   </component>

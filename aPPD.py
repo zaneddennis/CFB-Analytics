@@ -250,4 +250,4 @@ pd.set_option('display.width', 1000)
 """for w in range(5, 15+1):
     print(w)
     calculateAll(2017, w, store=True)"""
-calculateAll(2017, 4, store=True)
+#calculateAll(2017, 4, store=True)

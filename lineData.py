@@ -63,7 +63,7 @@ def getMoneyLines(date):
     for game in games:
         row = {}
 
-        teams_html = game.find_all("span", class_="_1ekCo")
+        teams_html = game.find_all("span", class_="_3O1Gx")
         row["away_team"] = util.translateName(__removeRanking(teams_html[0].get_text()))
         row["home_team"] = util.translateName(__removeRanking(teams_html[1].get_text()))
 
@@ -81,8 +81,8 @@ def getMoneyLines(date):
 pd.set_option('display.max_columns', 500)  # prints the df properly in console instead of splitting up columns
 pd.set_option('display.width', 1000)
 
-# lines = getMoneyLines("20181110")
-# print(lines)
+lines = getMoneyLines("20181110")
+print(lines)
 
-#spreads = getSpreads("20180927")
-# print(spreads)
+spreads = getSpreads("20181110")
+print(spreads)
