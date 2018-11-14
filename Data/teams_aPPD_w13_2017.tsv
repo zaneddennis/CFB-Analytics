@@ -1,0 +1,131 @@
+team	off_aPPD	def_aPPD	net_aPPD
+Air Force	0.26	1.03	-0.77
+Akron	-0.75	0.27	-1.02
+Alabama	1.26	-1.23	2.5
+Appalachian State	-0.5	0.24	-0.73
+Arizona	0.92	0.47	0.45
+Arizona State	0.57	-0.2	0.77
+Arkansas	0.25	0.36	-0.11
+Arkansas State	-0.58	0.13	-0.71
+Army	1.1	0.68	0.42
+Auburn	0.78	-1.57	2.35
+BYU	-1.02	0.17	-1.19
+Ball State	-1.05	1.47	-2.53
+Baylor	0.09	0.09	-0.0
+Boise State	0.36	-0.1	0.47
+Boston College	0.08	-0.84	0.92
+Bowling Green	-0.37	1.13	-1.5
+Buffalo	-0.22	0.42	-0.64
+California	0.03	-0.09	0.11
+Central Michigan	-0.42	-0.14	-0.28
+Charlotte	-1.63	0.99	-2.62
+Cincinnati	-0.36	0.88	-1.24
+Clemson	0.99	-1.55	2.54
+Coastal Carolina	-0.48	1.22	-1.7
+Colorado	0.01	0.19	-0.18
+Colorado State	0.26	0.83	-0.57
+Connecticut	-0.63	0.78	-1.41
+Duke	-0.02	-0.78	0.77
+East Carolina	0.05	1.76	-1.71
+Eastern Michigan	-0.63	-0.22	-0.41
+Florida	-0.38	-0.33	-0.04
+Florida Atlantic	0.75	0.53	0.22
+Florida International	-0.24	0.91	-1.15
+Florida State	0.04	-1.05	1.09
+Fresno State	-0.28	-0.15	-0.13
+Georgia	1.38	-1.24	2.62
+Georgia Southern	-0.68	0.78	-1.47
+Georgia State	-1.42	0.3	-1.72
+Georgia Tech	0.78	-0.37	1.15
+Hawai'i	-0.47	1.46	-1.93
+Houston	-0.07	-0.61	0.54
+Illinois	-0.84	0.11	-0.95
+Indiana	0.15	-0.52	0.67
+Iowa	0.65	-1.08	1.73
+Iowa State	0.6	-0.72	1.32
+Kansas	-0.41	0.44	-0.85
+Kansas State	0.23	-0.38	0.61
+Kent State	-1.37	0.76	-2.12
+Kentucky	0.12	0.37	-0.25
+LSU	0.56	-0.36	0.92
+Liberty	1.49	0.99	0.5
+Louisiana	-0.57	1.39	-1.95
+Louisiana Monroe	0.06	1.62	-1.57
+Louisiana Tech	-0.34	0.47	-0.81
+Louisville	1.42	-0.22	1.64
+Marshall	-0.62	0.05	-0.67
+Maryland	0.04	0.33	-0.29
+Memphis	0.69	-0.23	0.92
+Miami	0.51	-0.99	1.5
+Miami (OH)	-0.46	0.17	-0.63
+Michigan	-0.02	-1.08	1.06
+Michigan State	0.12	-0.87	0.99
+Middle Tennessee	-0.7	0.17	-0.86
+Minnesota	-0.15	-0.11	-0.04
+Mississippi State	0.48	-0.97	1.45
+Missouri	0.69	0.33	0.36
+NC State	0.7	-0.52	1.22
+Navy	0.52	0.49	0.02
+Nebraska	0.33	0.56	-0.23
+Nevada	-0.17	0.64	-0.81
+New Mexico	-1.0	0.84	-1.83
+New Mexico State	-0.41	0.63	-1.04
+North Carolina	-0.11	-0.02	-0.09
+North Texas	0.11	0.79	-0.68
+Northern Illinois	-0.7	-0.64	-0.05
+Northwestern	0.23	-0.68	0.91
+Notre Dame	1.04	-0.97	2.02
+Ohio	0.15	0.24	-0.09
+Ohio State	1.39	-0.87	2.26
+Oklahoma	2.21	-0.2	2.41
+Oklahoma State	1.45	-0.46	1.91
+Old Dominion	-1.11	0.74	-1.85
+Ole Miss	0.21	0.32	-0.11
+Oregon	0.26	-0.37	0.63
+Oregon State	-0.47	1.13	-1.6
+Penn State	1.11	-1.16	2.27
+Pittsburgh	0.18	-0.45	0.63
+Purdue	0.02	-0.81	0.83
+Rice	-1.19	1.41	-2.59
+Rutgers	-0.37	-0.0	-0.36
+SMU	0.76	0.66	0.09
+San Diego State	-0.13	-0.31	0.18
+San José State	-1.48	1.25	-2.73
+South Alabama	-1.3	0.59	-1.89
+South Carolina	-0.1	-0.47	0.37
+South Florida	0.06	-0.31	0.37
+Southern Mississippi	-0.67	0.23	-0.89
+Stanford	0.81	-0.25	1.06
+Syracuse	0.26	0.03	0.23
+TCU	0.51	-1.19	1.7
+Temple	-0.4	-0.18	-0.22
+Tennessee	-0.45	-0.03	-0.42
+Texas	-0.16	-1.29	1.14
+Texas A&M	0.21	-0.26	0.48
+Texas State	-1.35	1.0	-2.35
+Texas Tech	0.62	-0.2	0.82
+Toledo	0.57	0.46	0.11
+Troy	-0.4	-0.26	-0.14
+Tulane	-0.24	0.21	-0.45
+Tulsa	-0.04	0.93	-0.97
+UAB	-0.4	0.55	-0.95
+UCF	0.83	-0.63	1.46
+UCLA	0.64	0.25	0.38
+UMass	-0.43	0.21	-0.64
+UNLV	-0.13	1.07	-1.21
+USC	0.68	-0.55	1.23
+UT San Antonio	-1.08	0.12	-1.2
+UTEP	-1.67	1.13	-2.8
+Utah	0.05	-0.48	0.53
+Utah State	-0.75	-0.11	-0.64
+Vanderbilt	0.15	0.6	-0.44
+Virginia	-0.12	-0.53	0.41
+Virginia Tech	0.16	-1.11	1.27
+Wake Forest	0.76	-0.32	1.08
+Washington	0.87	-1.12	1.98
+Washington State	0.02	-1.0	1.02
+West Virginia	0.84	-0.31	1.16
+Western Kentucky	-0.74	0.7	-1.44
+Western Michigan	-0.38	0.38	-0.76
+Wisconsin	0.8	-1.3	2.1
+Wyoming	-1.03	-0.31	-0.72

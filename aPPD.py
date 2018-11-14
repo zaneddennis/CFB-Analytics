@@ -178,11 +178,11 @@ def calculateAll(season, weekThrough, store=False):
     teams_df["off_Last"] = 0
     teams_df["def_Last"] = 0
 
-    t1, t2, t3 = choices(teams_df.index, k=3)
-    print("\t" + t1 + "\t" + t2 + "\t" + t3)
+    #t1, t2, t3 = choices(teams_df.index, k=3)
+    #print("\t" + t1 + "\t" + t2 + "\t" + t3)
     for i in range(int(200 / weekThrough)):
         df, teams_df = __adjust(df, teams_df)
-        print(i, teams_df.at[t1, "off_aPPD"], teams_df.at[t2, "def_aPPD"], teams_df.at[t3, "off_aPPD"])
+        #print(i, teams_df.at[t1, "off_aPPD"], teams_df.at[t2, "def_aPPD"], teams_df.at[t3, "off_aPPD"])
 
     teams_df["off_aPPD"] = (teams_df["off_aPPD"] + teams_df["off_Last"]) / 2
     teams_df["net_aPPD"] = teams_df["off_aPPD"] - teams_df["def_aPPD"]
@@ -247,4 +247,7 @@ def predictGames(games, season, weekThrough, hfa=False):
 pd.set_option('display.max_columns', 500)  # prints the df properly in console instead of splitting up columns
 pd.set_option('display.width', 1000)
 
-# calculateAll(2016, 7, store=True)
+"""for w in range(5, 15+1):
+    print(w)
+    calculateAll(2017, w, store=True)"""
+calculateAll(2017, 4, store=True)
