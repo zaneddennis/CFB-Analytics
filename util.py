@@ -1,26 +1,40 @@
 
+schoolNames = {
+        "Brigham Young": "BYU",
+        "Central Florida": "UCF",
+        "Florida Intl.": "Florida International",
+        "Hawaii": "Hawai'i",
+        "Louisiana-Monroe": "Louisiana Monroe",
+        "Louisiana-Lafayette": "Louisiana",
+        "Massachusetts": "UMass",
+        "Miami (FL)": "Miami",
+        "Miami-FL": "Miami",
+        "Miami-OH": "Miami (OH)",
+        "North Carolina State": "NC State",
+        "San Jose State": "San José State",
+        "Southern Methodist": "SMU",
+        "Southern Miss": "Southern Mississippi",
+        "UL-Lafayette": "Louisiana",
+        "UL-Monroe": "Louisiana Monroe",
+        "UTSA": "UT San Antonio",
+    }
 
 # translates school names from various other formats into the one used in the CFB API
 def translateName(school):
-    names = {
-        "San Jose State": "San José State",
-        "Southern Miss": "Southern Mississippi",
-        "Louisiana-Monroe": "Louisiana Monroe",
-        "Massachusetts": "UMass",
-        "Louisiana-Lafayette": "Louisiana",
-        "North Carolina State": "NC State",
-        "Southern Methodist": "SMU",
-        "Miami (FL)": "Miami",
-        "UTSA": "UT San Antonio",
-        "Florida Intl.": "Florida International",
-        "Brigham Young": "BYU",
-        "Hawaii": "Hawai'i"
-    }
-
-    if school in names:
-        return names[school]
+    if school in schoolNames:
+        return schoolNames[school]
     else:
         return school
+
+# like translateName, but for a pd Series
+def translateNames(schools):
+    result = []
+    for s in schools:
+        if s in schoolNames:
+            result.append(schoolNames[s])
+        else:
+            result.append(s)
+    return result
 
 
 # assumes 1.00 unit stake

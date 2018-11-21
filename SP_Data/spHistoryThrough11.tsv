@@ -1,0 +1,596 @@
+week	away	home	site	spread	total	sp_spread	sp_total	sp_winProb	f_spread	f_winProb
+0	Hawaii	Colorado State	home	-17	58	-19.1	60.7	86.5%	-8.6	69.0%
+0	Wyoming	New Mexico State	home	+5	46	+3.8	45.2	58.8%	+6.5	64.7%
+1	New Mexico State	Minnesota	home	-21.5	46.5	-8.6	48.6	69.0%	-16.3	82.8%
+1	Central Florida	Connecticut	home	+24	71.5	+27.0	74.0	94.1%	+28.3	94.9%
+1	Northwestern	Purdue	home	-2	53	+1.0	54.7	52.3%	+4.5	60.2%
+1	Wake Forest	Tulane	home	+6	57.5	+9.5	64.7	70.9%	+14.8	80.5%
+1	Syracuse	Western Michigan	home	+5	64.5	-0.4	62.0	51.0%	-1.3	52.9%
+1	Army	Duke	home	-12	45	-11.7	55.1	75.0%	-20.0	87.6%
+1	Utah State	Michigan State	home	-23.5	50.5	-20.0	48.4	87.6%	-23.4	91.2%
+1	San Diego State	Stanford	home	-14	48.5	-12.0	60.1	75.5%	-14.7	80.2%
+1	Western Kentucky	Wisconsin	home	-36	52.5	-25.6	52.2	93.0%	-27.4	94.3%
+1	Colorado	Colorado State	neutral	+7.5	65	+1.2	61.4	52.8%	+2.4	55.6%
+1	Houston	Rice	home	+25.5	55.5	+15.3	56.7	81.2%	+17.5	84.5%
+1	Kent State	Illinois	home	-16	55.5	-10.0	49.8	71.9%	-5.5	62.5%
+1	Texas	Maryland	neutral	+13.5	52.5	+8.8	52.6	69.5%	+17.1	83.9%
+1	Oregon State	Ohio State	home	-38	64	-41.5	61.9	99.2%	-33.0	97.2%
+1	Florida Atlantic	Oklahoma	home	-21	72	-13.0	70.6	77.3%	-9.4	70.6%
+1	Ole Miss	Texas Tech	neutral	-2	67	+6.5	64.5	64.6%	+7.5	66.8%
+1	Texas State	Rutgers	home	-16.5	46.5	-12.7	48.9	76.9%	-7.4	66.5%
+1	Coastal Carolina	South Carolina	home	-29	57	-23.6	55.8	91.4%	-28.4	95.0%
+1	Massachusetts	Boston College	home	-18	63	-13.7	56.1	78.5%	-23.4	91.2%
+1	Northern Illinois	Iowa	home	-10	48.5	-9.1	46.7	70.0%	-14.5	79.9%
+1	Central Michigan	Kentucky	home	-17	49	-15.0	51.6	80.8%	-18.0	85.1%
+1	Marshall	Miami-OH	home	+2	51.5	+2.8	49.6	56.4%	+10.7	73.1%
+1	Appalachian State	Penn State	home	-24	54	-20.6	55.8	88.3%	-17.9	84.9%
+1	Tennessee	West Virginia	neutral	-10	61.5	-4.4	60.3	59.9%	-8.3	68.4%
+1	Washington	Auburn	neutral	-2	48	+1.4	51.2	53.3%	-0.1	50.2%
+1	Washington State	Wyoming	home	-0	45	+3.4	43.4	57.8%	+8.0	67.9%
+1	North Carolina	California	home	-7	60.5	-0.9	57.4	52.1%	-0.9	52.1%
+1	UNLV	USC	home	-26	64	-24.1	62.8	91.8%	-30.8	96.2%
+1	Boise State	Troy	home	+10	49.5	+8.3	49.1	68.5%	+15.7	81.8%
+1	Old Dominion	Liberty	home	+6.5	58	+0.4	53.0	50.9%	-1.1	52.4%
+1	Indiana	Florida International	home	+9.5	56	+12.3	56.8	76.2%	+14.1	79.2%
+1	Louisiana Tech	South Alabama	home	+10	51	+6.9	54.9	65.5%	+10.9	73.5%
+1	Cincinnati	UCLA	home	-15	63.5	-11.5	63.5	74.7%	-20.3	87.9%
+1	Michigan	Notre Dame	home	-2	47	-2.8	47.6	56.5%	-2.9	56.6%
+1	SMU	North Texas	home	-4.5	71.5	+0.4	69.2	50.9%	+2.1	54.8%
+1	Middle Tennessee	Vanderbilt	home	-3	57	-5.1	56.3	61.6%	-3.3	57.5%
+1	Akron	Nebraska	home	-25.5	54.5	-16.9	51.3	83.6%	-20.3	87.9%
+1	Louisville	Alabama	neutral	-24.5	62.5	-14.8	64.2	80.4%	-4.6	60.4%
+1	Bowling Green	Oregon	home	-32	72.5	-23.8	60.8	91.5%	-27.4	94.3%
+1	UTSA	Arizona State	home	-18.5	53.5	-13.2	55.3	77.7%	-23.9	91.6%
+1	BYU	Arizona	home	-11.5	60.5	-11.7	57.9	75.1%	-12.9	77.3%
+1	Navy	Hawaii	home	+10	62	+15.1	60.1	80.9%	+10.3	72.5%
+1	Miami-FL	LSU	neutral	+3.5	47	+2.8	51.0	56.4%	+0.9	52.1%
+1	Virginia Tech	Florida State	home	-7.5	56	-7.0	53.8	65.8%	-5.1	61.6%
+2	TCU	SMU	home	+23.5	58.5	+27.4	65.6	94.3%	+24.5	92.1%
+2	Arizona	Houston	home	-3.5	71	-4.7	68.1	60.7%	-2.6	56.1%
+2	Duke	Northwestern	home	-3	48.5	+1.4	66.0	53.2%	+2.3	55.3%
+2	Eastern Michigan	Purdue	home	-17	55.5	-2.5	63.8	55.7%	-8.9	69.6%
+2	Georgia Tech	South Florida	home	+3.5	63	-2.4	48.0	55.4%	+1.3	52.9%
+2	Liberty	Army	home	-9	58.5	+0.7	60.3	51.7%	-6.8	65.4%
+2	Nevada	Vanderbilt	home	-8	62.5	-9.8	64.8	71.4%	-6.3	64.2%
+2	New Mexico	Wisconsin	home	-35	61.5	-29.1	73.8	95.3%	-32.1	96.8%
+2	Mississippi State	Kansas State	home	+9	54.5	+24.7	45.1	92.3%	+12.4	76.4%
+2	Western Michigan	Michigan	home	-28	56.5	-28.2	60.0	94.9%	-26.1	93.4%
+2	Georgia State	NC State	home	-24.5	58	-19.3	43.9	86.8%	-23.1	90.9%
+2	UCLA	Oklahoma	home	-30.5	65	-36.5	50.5	98.2%	-19.9	87.5%
+2	Air Force	Florida Atlantic	home	-9.5	69	-0.6	45.8	51.3%	-7.9	67.6%
+2	Kansas	Central Michigan	home	-5.5	52	-5.8	36.6	63.2%	-1.4	53.1%
+2	Arkansas State	Alabama	home	-35.5	65.5	-35.8	69.1	98.1%	-24.7	92.3%
+2	Ball State	Notre Dame	home	-34.5	62.5	-28.8	48.4	95.2%	-30.5	96.1%
+2	Buffalo	Temple	home	-5	50.5	+4.5	51.5	60.4%	-2.4	55.5%
+2	Colorado	Nebraska	home	-3.5	65	+4.6	61.2	60.5%	-3.4	57.8%
+2	Memphis	Navy	home	+7	68.5	+27.2	83.4	94.2%	+14.9	80.6%
+2	Georgia	South Carolina	home	+10	57.5	+12.7	59.2	76.9%	+6.4	64.4%
+2	North Carolina	East Carolina	home	+17	60	+19.3	27.5	86.8%	+14.2	79.5%
+2	Rutgers	Ohio State	home	-35.5	65	-32.2	53.0	96.8%	-28.4	95.0%
+2	Iowa State	Iowa	home	-4.5	46	-11.0	41.4	73.7%	-10.1	72.0%
+2	Appalachian State	Charlotte	home	+14.5	47.5	+12.6	59.8	76.6%	+13.2	77.8%
+2	Maryland	Bowling Green	home	+16	65.5	+16.1	73.8	82.5%	+6.8	65.3%
+2	Massachusetts	Georgia Southern	home	-2.5	62.5	-2.1	69.5	54.8%	-7.2	66.1%
+2	Baylor	UTSA	home	+16	51	+21.1	80.6	88.8%	+19.9	87.5%
+2	Clemson	Texas A&M	home	+12.5	54	+12.0	51.2	75.6%	+4.0	59.1%
+2	UAB	Coastal Carolina	home	+10	55	+16.8	54.4	83.5%	+7.5	66.7%
+2	UL-Monroe	Southern Miss	home	-5.5	68	-18.7	52.1	86.1%	-6.9	65.6%
+2	Wyoming	Missouri	home	-18.5	52	-18.6	65.8	85.9%	-15.8	81.9%
+2	Arkansas	Colorado State	home	+14.5	70	+20.8	72.4	88.5%	+17.3	84.1%
+2	Florida International	Old Dominion	home	+1	51.5	+8.1	59.9	67.9%	-0.4	50.8%
+2	Fresno State	Minnesota	home	-2.5	48	+4.0	59.2	59.0%	-1.4	53.2%
+2	Kentucky	Florida	home	-14	50	-17.7	50.1	84.7%	-15.7	81.8%
+2	Utah	Northern Illinois	home	+10.5	47	+24.0	31.4	91.7%	+15.8	82.0%
+2	Virginia	Indiana	home	-6.5	51	+2.0	56.6	54.6%	-0.5	51.2%
+2	Cincinnati	Miami-OH	home	-1	51	+2.0	56.8	54.6%	+1.0	52.4%
+2	New Mexico State	Utah State	home	-24	62	-21.4	69.5	89.2%	-15.7	81.9%
+2	Penn State	Pittsburgh	home	+9.5	56	+9.3	74.9	70.5%	+9.3	70.5%
+2	South Alabama	Oklahoma State	home	-33	63	-31.5	63.5	96.5%	-29.0	95.3%
+2	Tulsa	Texas	home	-23	62	-16.4	55.6	82.9%	-21.6	89.4%
+2	USC	Stanford	home	-5.5	56.5	-8.6	56.0	69.0%	-5.2	61.9%
+2	UTEP	UNLV	home	-24	55.5	-23.8	50.4	91.6%	-9.9	71.6%
+2	California	BYU	home	-3	46.5	-2.8	43.9	56.5%	-2.5	55.8%
+2	Connecticut	Boise State	home	-31.5	63.5	-46.3	70.1	99.6%	-35.6	98.0%
+2	Michigan State	Arizona State	home	+7	54	-2.2	64.5	55.2%	+1.9	54.4%
+2	San Jose State	Washington State	home	-34.5	65.5	-42.5	65.7	99.3%	-28.9	95.2%
+2	Rice	Hawaii	home	-18	72	-7.8	84.9	67.5%	-3.4	57.8%
+3	Old Dominion	Charlotte	home	+1	41.5	-2.5	48.0	55.8%	-2.2	55.1%
+3	Boston College	Wake Forest	home	+4.5	55.5	+12.8	61.1	77.1%	+6.8	65.3%
+3	Georgia State	Memphis	home	-27.5	58.5	-37.9	56.9	98.6%	-28.8	95.2%
+3	Ball State	Indiana	home	-14.5	57	-18.9	46.5	86.3%	-15.1	80.8%
+3	Florida State	Syracuse	home	+3	68	+1.1	54.1	52.5%	+11.4	74.5%
+3	Georgia Southern	Clemson	home	-33	47.5	-25.0	65.8	92.6%	-23.3	91.1%
+3	Hawaii	Army	home	-6	62	-7.5	83.7	66.8%	-10.4	72.7%
+3	Kent State	Penn State	home	-35	64	-29.3	62.3	95.5%	-31.1	96.4%
+3	Miami-FL	Toledo	home	+10.5	57.5	-7.8	50.4	67.5%	+2.8	56.5%
+3	Oklahoma	Iowa State	home	+18	55.5	+32.4	58.9	96.9%	+16.5	83.0%
+3	Rutgers	Kansas	home	-2.5	44.5	-1.4	36.0	53.2%	-2.4	55.6%
+3	Temple	Maryland	home	-16	53.5	-18.3	56.9	85.5%	-8.3	68.4%
+3	Troy	Nebraska	home	-12	57.5	-22.3	67.2	90.1%	-16.5	83.0%
+3	UTEP	Tennessee	home	-31.5	47.5	-39.1	65.9	98.8%	-19.7	87.3%
+3	Georgia Tech	Pittsburgh	home	+4	52.5	+14.1	60.7	79.3%	+6.9	65.4%
+3	Tulane	UAB	home	+3.5	57	+5.8	60.2	63.2%	+5.3	62.0%
+3	Vanderbilt	Notre Dame	home	-13.5	52	-4.3	43.7	59.8%	-18.2	85.3%
+3	BYU	Wisconsin	home	-22	45.5	-32.4	54.9	97.0%	-21.9	89.7%
+3	Central Michigan	Northern Illinois	home	-14	44.5	-20.7	26.9	88.4%	-15.2	81.0%
+3	Duke	Baylor	home	-6	49	+10.6	66.9	72.9%	+5.3	62.1%
+3	Miami-OH	Minnesota	home	-12.5	46.5	-19.2	43.3	86.6%	-17.2	83.9%
+3	LSU	Auburn	home	-10	44.5	-0.1	46.6	50.3%	-4.1	59.4%
+3	Boise State	Oklahoma State	home	-2.5	64.5	+2.0	58.3	54.5%	-1.3	52.9%
+3	SMU	Michigan	home	-36	53.5	-42.3	52.4	99.3%	-34.3	97.6%
+3	South Florida	Illinois	neutral	+10	59	+13.7	63.5	78.6%	+12.7	76.9%
+3	Colorado State	Florida	home	-20	56.5	-24.5	68.5	92.2%	-24.3	92.0%
+3	North Texas	Arkansas	home	-7	69	-3.4	58.8	57.7%	-9.2	70.2%
+3	UTSA	Kansas State	home	-21.5	46.5	-21.2	50.8	89.0%	-19.5	87.0%
+3	Houston	Texas Tech	home	+1	70	+3.3	65.9	57.5%	+3.4	57.7%
+3	Ohio	Virginia	neutral	-3.5	53.5	-19.9	68.9	87.4%	-9.5	70.9%
+3	San Jose State	Oregon	home	-41	68	-47.4	65.9	99.7%	-33.7	97.4%
+3	Eastern Michigan	Buffalo	home	-3	53.5	+0.0	62.5	50.0%	-5.5	62.5%
+3	Arkansas State	Tulsa	home	+1	72	-5.4	61.6	62.2%	-2.8	56.4%
+3	Alabama	Ole Miss	home	+21.5	71	+22.3	75.9	90.2%	+8.4	68.6%
+3	Oregon State	Nevada	home	-3	69	-0.0	65.6	50.0%	-2.0	54.5%
+3	Texas State	South Alabama	home	-10.5	50	-13.1	52.2	77.5%	-6.8	65.3%
+3	Middle Tennessee	Georgia	home	-33.5	54.5	-45.1	59.3	99.5%	-33.7	97.4%
+3	Western Kentucky	Louisville	home	-22.5	57	-15.6	47.6	81.6%	-16.7	83.3%
+3	Akron	Northwestern	home	-21	45	-6.0	44.4	63.5%	-15.4	81.4%
+3	Massachusetts	Florida International	home	-4.5	60.5	+4.3	68.9	59.9%	+1.5	53.5%
+3	Missouri	Purdue	home	+6	65.5	+14.2	64.0	79.4%	+6.5	64.7%
+3	UL-Lafayette	Mississippi State	home	-33	64.5	-22.3	66.2	90.1%	-24.9	92.5%
+3	UL-Monroe	Texas A&M	home	-27	66	-34.6	56.0	97.7%	-29.7	95.7%
+3	New Mexico	New Mexico State	home	+4	58	+10.7	66.1	73.1%	+0.8	51.8%
+3	USC	Texas	home	-3	48	-4.8	50.2	60.9%	-1.7	53.8%
+3	Ohio State	TCU	neutral	+13	58.5	+19.4	59.4	86.9%	+6.0	63.6%
+3	Washington	Utah	home	+6	47	+4.6	34.8	60.5%	+3.9	58.9%
+3	Fresno State	UCLA	home	+1	50	+14.9	49.3	80.6%	+3.0	56.9%
+3	Arizona State	San Diego State	home	+4.5	45.5	+11.5	44.8	74.8%	+10.2	72.3%
+4	Tulsa	Temple	home	-7.5	55.5	-10.5	51.5	72.9%	-11.1	74.0%
+4	Florida Atlantic	Central Florida	home	-13.5	75	-18.5	67.1	85.8%	-19.1	86.6%
+4	Penn State	Illinois	home	+28	60.5	+30.6	59.1	96.2%	+26.9	94.0%
+4	Washington State	USC	home	-3.5	53	-0.1	49.9	50.2%	-7.9	67.5%
+4	Akron	Iowa State	home	-18.5	45	-16.1	47.1	82.3%	-20.7	88.5%
+4	Buffalo	Rutgers	home	+6	50	+14.2	51.6	79.5%	+9.7	71.3%
+4	Kent State	Ole Miss	home	-29	77	-25.4	79.2	92.9%	-24.8	92.4%
+4	Minnesota	Maryland	home	-3	46.5	+8.0	44.8	67.7%	+5.4	62.3%
+4	Navy	SMU	home	+7	65	+12.5	75.5	76.6%	+9.3	70.4%
+4	Nebraska	Michigan	home	-19	50	-16.8	54.0	83.4%	-16.3	82.7%
+4	Nevada	Toledo	home	-10	69.5	-18.3	70.3	85.5%	-17.3	84.1%
+4	Georgia	Missouri	home	+14.5	65	+15.5	69.7	81.4%	+10.2	72.2%
+4	Boston College	Purdue	home	+7	68	+10.8	69.6	73.4%	+9.6	71.1%
+4	Notre Dame	Wake Forest	home	+7.5	60.5	+11.0	51.9	73.7%	+10.5	72.7%
+4	Ohio	Cincinnati	home	-8.5	53.5	-25.0	65.6	92.5%	-12.9	77.2%
+4	Pittsburgh	North Carolina	home	+3.5	48.5	+6.3	49.3	64.2%	+2.0	54.5%
+4	Louisville	Virginia	home	-4.5	54.5	-10.6	58.4	73.1%	-1.2	52.8%
+4	Western Michigan	Georgia State	home	+7.5	63	+11.2	62.0	74.1%	+6.1	63.9%
+4	Miami-OH	Bowling Green	home	+7	54.5	+17.0	62.2	83.8%	+2.0	54.5%
+4	Western Kentucky	Ball State	home	-2.5	55	-1.8	47.3	54.0%	-0.6	51.4%
+4	Charlotte	Massachusetts	home	-9.5	58.5	-8.8	62.5	69.5%	-5.2	61.8%
+4	Florida International	Miami-FL	home	-26.5	58.5	-21.3	64.4	89.0%	-28.8	95.2%
+4	Kansas	Baylor	home	-7.5	57.5	-7.8	53.3	67.3%	-16.6	83.1%
+4	Kansas State	West Virginia	home	-16.5	60.5	-24.2	65.4	91.9%	-12.3	76.1%
+4	Virginia Tech	Old Dominion	home	+28	51.5	+19.8	53.2	87.4%	+24.6	92.2%
+4	Texas A&M	Alabama	home	-27	61.5	-18.2	64.3	85.4%	-8.1	68.0%
+4	Clemson	Georgia Tech	home	+17	52	+19.6	62.5	87.2%	+13.4	78.1%
+4	Northern Illinois	Florida State	home	-10	45	-7.0	29.8	65.7%	-13.8	78.8%
+4	Tulane	Ohio State	home	-37.5	66	-37.7	62.3	98.5%	-27.7	94.5%
+4	Arizona	Oregon State	home	+6.5	75.5	+1.5	65.2	53.4%	+8.7	69.2%
+4	Connecticut	Syracuse	home	-27.5	76	-33.6	69.9	97.4%	-18.7	86.0%
+4	South Carolina	Vanderbilt	home	+2.5	54.5	-0.2	55.1	50.6%	+8.3	68.3%
+4	TCU	Texas	home	+4	47.5	+3.7	57.1	58.5%	+0.7	51.7%
+4	North Texas	Liberty	home	+13.5	70	+11.4	59.9	74.5%	+7.9	67.5%
+4	Army	Oklahoma	home	-32	63	-35.2	73.4	97.9%	-28.9	95.3%
+4	Coastal Carolina	UL-Lafayette	home	-3.5	64.5	-5.9	77.9	63.2%	-4.4	60.0%
+4	Florida	Tennessee	home	+4.5	47	+0.3	56.7	50.6%	+6.4	64.5%
+4	Louisiana Tech	LSU	home	-21.5	48	-18.5	58.1	85.7%	-17.8	84.8%
+4	NC State	Marshall	home	+5	57	+3.2	55.0	57.4%	+4.3	59.9%
+4	Mississippi State	Kentucky	home	+10	55.5	+11.2	58.4	74.2%	+9.4	70.6%
+4	Rice	Southern Miss	home	-14	54.5	-24.6	55.6	92.2%	-9.3	70.5%
+4	Texas State	UTSA	home	-7.5	50	-1.2	51.4	52.7%	-3.3	57.6%
+4	Texas Tech	Oklahoma State	home	-13.5	78	-22.6	67.6	90.4%	-15.7	81.7%
+4	Troy	UL-Monroe	home	+6	64	+3.3	60.6	57.5%	+2.4	55.5%
+4	UNLV	Arkansas State	home	-7.5	68	-2.5	65.1	55.7%	-5.5	62.5%
+4	Arkansas	Auburn	home	-29.5	57.5	-20.4	53.4	88.1%	-20.0	87.6%
+4	New Mexico State	UTEP	home	+3.5	48.5	+8.9	52.1	69.6%	-0.8	51.9%
+4	Michigan State	Indiana	home	+5	48	-1.3	52.9	53.1%	+9.6	71.1%
+4	East Carolina	South Florida	home	-22	68.5	-25.9	56.5	93.3%	-21.3	89.1%
+4	Stanford	Oregon	home	+3	57.5	-1.1	51.0	52.4%	+1.5	53.5%
+4	South Alabama	Memphis	home	-31.5	67.5	-32.6	65.2	97.0%	-25.4	92.9%
+4	Wisconsin	Iowa	home	+3	43.5	+6.1	43.5	63.9%	+2.6	56.0%
+4	Air Force	Utah State	home	-10.5	64	-17.5	53.3	84.4%	-14.4	79.8%
+4	Arizona State	Washington	home	-17	50	-22.7	49.8	90.5%	-13.6	78.4%
+4	Eastern Michigan	San Diego State	home	-11	48.5	-7.8	64.8	67.3%	-12.0	75.7%
+5	North Carolina	Miami-FL	home	-18	55.5	-22.7	57.2	90.6%	-23.5	91.3%
+5	Memphis	Tulane	home	+14	67	+21.7	65.1	89.5%	+17.5	84.4%
+5	UCLA	Colorado	home	-9	60.5	-13.3	53.9	78.0%	-7.6	66.9%
+5	Arkansas	Texas A&M	neutral	-21	62	-12.7	56.0	76.8%	-16.8	83.4%
+5	Army	Buffalo	home	-8.5	52	-16.7	65.0	83.2%	-14.0	79.0%
+5	Bowling Green	Georgia Tech	home	-28.5	65	-29.1	73.7	95.4%	-15.6	81.7%
+5	Central Michigan	Michigan State	home	-28.5	46.5	-37.5	41.6	98.5%	-34.1	97.6%
+5	Indiana	Rutgers	home	+17.5	52	+22.3	45.5	90.1%	+15.2	81.1%
+5	West Virginia	Texas Tech	home	+3.5	77	+7.9	73.6	67.5%	+3.0	56.9%
+5	Oklahoma State	Kansas	home	+18	62	+21.5	48.5	89.3%	+21.6	89.4%
+5	Syracuse	Clemson	home	-24	67	-25.2	59.3	92.7%	-20.5	88.2%
+5	Temple	Boston College	home	-13.5	53.5	-9.7	50.9	71.2%	-7.6	66.9%
+5	UL-Lafayette	Alabama	home	-48.5	67	-45.6	73.8	99.6%	-37.0	98.4%
+5	Virginia	NC State	home	-5.5	53	-6.0	53.2	63.6%	-11.5	74.7%
+5	Massachusetts	Ohio	home	-13.5	69	-3.5	76.5	58.0%	-8.7	69.3%
+5	UL-Monroe	Georgia State	home	+7.5	62	+2.8	61.2	56.5%	+0.1	50.1%
+5	Kent State	Ball State	home	-7.5	63	-9.2	58.0	70.3%	-4.5	60.4%
+5	Baylor	Oklahoma	home	-23.5	68.5	-17.9	69.9	84.9%	-14.4	79.8%
+5	Cincinnati	Connecticut	home	+17	60.5	+26.7	66.9	93.9%	+16.1	82.4%
+5	Coastal Carolina	Troy	home	-14	54	-4.9	73.7	61.1%	-7.8	67.4%
+5	Florida State	Louisville	home	+6.5	47	+4.6	43.2	60.4%	+6.8	65.3%
+5	Texas	Kansas State	home	+9	48	+14.4	51.2	79.7%	+13.6	78.4%
+5	Old Dominion	East Carolina	home	-7	62	-1.6	54.6	53.6%	-2.3	55.4%
+5	Pittsburgh	Central Florida	home	-13.5	66	-21.1	69.1	88.8%	-21.0	88.7%
+5	Purdue	Nebraska	home	+3.5	58	+5.5	60.7	62.5%	+7.0	65.7%
+5	Rice	Wake Forest	home	-25.5	67.5	-21.8	67.2	89.6%	-14.8	80.4%
+5	South Alabama	Appalachian State	home	-26	56	-27.2	67.4	94.2%	-23.7	91.4%
+5	Tennessee	Georgia	home	-31.5	52	-26.3	63.5	93.5%	-27.3	94.3%
+5	Western Michigan	Miami-OH	home	+0.5	55.5	+2.3	56.1	55.3%	+1.2	52.7%
+5	Nevada	Air Force	home	-6.5	68	+3.2	64.1	57.2%	-1.8	54.1%
+5	Southern Miss	Auburn	home	-27	54	-21.9	43.5	89.7%	-27.9	94.7%
+5	Michigan	Northwestern	home	+14.5	48	+20.1	47.7	87.7%	+12.9	77.3%
+5	Arkansas State	Georgia Southern	home	+3	55	+1.1	59.3	52.5%	-1.1	52.5%
+5	Florida	Mississippi State	home	-8	50.5	-8.3	57.1	68.4%	-8.2	68.3%
+5	Liberty	New Mexico	home	-6.5	65.5	-2.0	67.9	54.7%	-3.4	57.7%
+5	Northern Illinois	Eastern Michigan	home	-3.5	48.5	-11.5	50.5	74.7%	-7.3	66.3%
+5	Utah	Washington State	home	+2	50	-1.4	47.5	53.3%	-1.0	52.3%
+5	Boise State	Wyoming	home	+17	46	+17.6	57.4	84.6%	+17.7	84.6%
+5	Charlotte	UAB	home	-17	51	-19.0	53.4	86.4%	-9.0	69.9%
+5	Florida Atlantic	Middle Tennessee	home	+3	65.5	+12.2	66.2	76.0%	+5.9	63.4%
+5	Hawaii	San Jose State	home	+12.5	66.5	+13.4	67.8	78.1%	+3.4	57.8%
+5	Iowa State	TCU	home	-10.5	49	-7.4	52.9	66.6%	-9.2	70.2%
+5	UTEP	UTSA	home	-10	44.5	-8.4	52.8	68.6%	-3.3	57.6%
+5	Virginia Tech	Duke	home	-5	51	-8.9	59.5	69.7%	-7.5	66.7%
+5	Louisiana Tech	North Texas	home	-7.5	65	-13.7	63.7	78.5%	-5.3	62.1%
+5	Marshall	Western Kentucky	home	+6.5	52.5	+7.4	52.4	66.5%	+8.6	69.1%
+5	Ohio State	Penn State	home	+4	70.5	+2.9	66.7	56.7%	-0.5	51.2%
+5	Stanford	Notre Dame	home	-5.5	54	-7.5	47.3	66.8%	-4.0	59.2%
+5	South Carolina	Kentucky	home	-2	49.5	-5.5	52.6	62.4%	-3.0	56.8%
+5	BYU	Washington	home	-17	46	-23.4	48.6	91.2%	-13.4	78.0%
+5	Ole Miss	LSU	home	-12	59.5	-9.7	67.3	71.3%	-14.6	80.1%
+5	Oregon State	Arizona State	home	-22	63.5	-15.8	60.5	81.9%	-21.8	89.6%
+5	Oregon	California	home	+2.5	58	+3.2	49.7	57.4%	+1.4	53.2%
+5	Toledo	Fresno State	home	-7.5	60	-5.7	63.1	62.9%	-6.6	64.8%
+5	USC	Arizona	home	+3.5	61	+2.4	56.4	55.5%	+3.9	59.0%
+6	Georgia State	Troy	home	-16	54.5	-16.7	65.3	83.3%	-14.8	80.3%
+6	Tulsa	Houston	home	-18	70	-16.4	60.3	82.8%	-16.8	83.5%
+6	Georgia Tech	Louisville	home	+4.5	57.5	+5.9	57.7	63.4%	+3.4	57.7%
+6	Middle Tennessee	Marshall	home	-6	52	-13.8	52.2	78.8%	-17.7	84.7%
+6	Utah State	BYU	home	-2.5	55	+7.8	56.4	67.4%	+1.3	53.0%
+6	Buffalo	Central Michigan	home	+7.5	50	+13.6	44.3	78.3%	+13.3	77.9%
+6	East Carolina	Temple	home	-11.5	52.5	-14.3	45.2	79.5%	-19.6	87.1%
+6	Illinois	Rutgers	home	+5	50.5	+2.0	54.9	54.6%	-0.1	50.2%
+6	Kansas	West Virginia	home	-29	61.5	-26.5	58.8	93.7%	-27.4	94.3%
+6	Maryland	Michigan	home	-17	48	-20.9	51.9	88.6%	-16.0	82.2%
+6	Missouri	South Carolina	home	-1	64.5	-1.1	62.7	52.6%	-3.0	56.9%
+6	Alabama	Arkansas	home	+35	58.5	+27.3	55.9	94.2%	+21.4	89.2%
+6	Texas	Oklahoma	neutral	-8	61	-11.8	61.2	75.3%	-6.2	63.9%
+6	Northwestern	Michigan State	home	-11	43	-14.0	49.4	79.0%	-16.0	82.3%
+6	Tulane	Cincinnati	home	-7.5	49	-8.6	54.7	69.1%	-12.3	76.1%
+6	Syracuse	Pittsburgh	home	+4	58	+6.4	61.4	64.5%	+10.8	73.3%
+6	Boston College	NC State	home	-5	59	-8.1	56.8	67.9%	-9.3	70.4%
+6	Eastern Michigan	Western Michigan	home	-4.5	57	-2.9	63.3	56.7%	+1.6	53.8%
+6	Northern Illinois	Ball State	home	+3	52.5	+1.2	43.5	52.9%	+2.3	55.2%
+6	Bowling Green	Toledo	home	-20.5	73	-27.8	79.0	94.6%	-13.3	77.9%
+6	Florida State	Miami-FL	home	-14	48.5	-17.5	51.3	84.4%	-16.9	83.6%
+6	Iowa	Minnesota	home	+7	42	+5.1	39.3	61.6%	+9.8	71.4%
+6	Iowa State	Oklahoma State	home	-10	54.5	-13.2	57.4	77.8%	-12.3	76.1%
+6	Kansas State	Baylor	home	-4.5	55.5	-14.5	59.9	79.9%	-12.3	76.2%
+6	Miami-OH	Akron	home	-3.5	48	+3.6	48.8	58.3%	-0.8	51.9%
+6	Navy	Air Force	home	+3	48	+10.4	65.4	72.5%	+5.5	62.6%
+6	Clemson	Wake Forest	home	+18	62.5	+23.9	59.1	91.7%	+19.7	87.3%
+6	LSU	Florida	home	+3	43.5	-1.8	51.6	54.2%	+1.2	52.8%
+6	Ohio	Kent State	home	+13.5	71	+9.4	75.4	70.6%	+7.4	66.6%
+6	San Diego State	Boise State	home	-14	51	-13.3	54.5	78.0%	-11.7	75.0%
+6	South Alabama	Georgia Southern	home	-13.5	55	-9.8	67.3	71.4%	-10.6	72.9%
+6	South Florida	Massachusetts	home	+14.5	71	+18.1	65.2	85.3%	+16.6	83.2%
+6	Arizona State	Colorado	home	-3	64	-5.4	59.8	62.3%	+3.8	58.6%
+6	Indiana	Ohio State	home	-25.5	64.5	-21.3	56.5	89.1%	-16.9	83.6%
+6	New Mexico	UNLV	home	-9.5	63	-6.5	68.1	64.7%	-7.2	66.1%
+6	UL-Monroe	Ole Miss	home	-22.5	75.5	-24.0	75.2	91.8%	-20.3	88.0%
+6	Old Dominion	Florida Atlantic	home	-14	65.5	-11.0	64.2	73.7%	-5.8	63.1%
+6	Connecticut	Memphis	home	-35	78	-36.1	75.3	98.1%	-25.6	93.0%
+6	Kentucky	Texas A&M	home	-5.5	50.5	+0.0	52.2	50.1%	+0.5	51.2%
+6	SMU	Central Florida	home	-24	75.5	-28.9	62.1	95.3%	-30.1	95.9%
+6	UAB	Louisiana Tech	home	-9.5	57	+1.2	61.5	52.7%	-13.0	77.3%
+6	UL-Lafayette	Texas State	home	+3.5	59	+2.6	59.8	56.0%	-2.5	55.7%
+6	UTSA	Rice	home	-2.5	50	+1.7	58.7	54.0%	-3.0	56.8%
+6	Nebraska	Wisconsin	home	-18.5	57.5	-19.1	63.5	86.5%	-24.4	92.0%
+6	Washington	UCLA	home	+21	50.5	+24.5	51.3	92.2%	+25.0	92.6%
+6	Auburn	Mississippi State	home	+3.5	43	+0.3	44.7	50.7%	+2.0	54.7%
+6	North Texas	UTEP	home	+27	53	+32.9	51.9	97.1%	+25.4	92.9%
+6	Vanderbilt	Georgia	home	-26.5	52	-25.6	59.6	93.0%	-25.4	92.9%
+6	Liberty	New Mexico State	home	+4.5	64	+5.4	57.5	62.2%	+2.5	55.8%
+6	Notre Dame	Virginia Tech	home	+6.5	57	+8.2	55.2	68.2%	+4.3	59.8%
+6	Washington State	Oregon State	home	+17	65	+17.9	66.1	85.0%	+21.3	89.1%
+6	California	Arizona	home	+2.5	57	-1.5	51.3	53.5%	-4.7	60.7%
+6	Colorado State	San Jose State	home	+2.5	63	+0.4	60.6	50.9%	-2.2	55.1%
+6	Fresno State	Nevada	home	+12.5	60	+15.4	58.6	81.4%	+17.7	84.7%
+6	Utah	Stanford	home	-5	46	-4.8	46.3	61.0%	-9.0	69.9%
+6	Wyoming	Hawaii	home	-3	58	+1.6	65.7	53.6%	+0.1	50.3%
+7	Appalachian State	Arkansas State	home	+11	59	+17.4	61.8	84.3%	+17.5	84.4%
+7	Georgia Southern	Texas State	home	+18	49	+16.7	57.1	83.2%	+13.3	77.8%
+7	Texas Tech	TCU	home	-7	61.5	-1.0	63.2	52.3%	-1.0	52.3%
+7	South Florida	Tulsa	home	+7	61	+13.0	55.8	77.3%	+7.8	67.5%
+7	Air Force	San Diego State	home	-11	43.5	-14.2	46.8	79.4%	-17.6	84.5%
+7	Arizona	Utah	home	-13.5	51.5	-11.8	53.2	75.2%	-13.9	79.0%
+7	Akron	Buffalo	home	-12	53.5	-18.9	50.3	86.2%	-16.7	83.3%
+7	Toledo	Eastern Michigan	home	+1.5	63.5	-1.1	67.1	52.4%	-10.8	73.3%
+7	Iowa	Indiana	home	+5.5	52.5	+5.0	48.1	61.4%	+6.9	65.6%
+7	Rutgers	Maryland	home	-25.5	52	-17.6	51.0	84.6%	-20.3	88.0%
+7	Florida	Vanderbilt	home	+7	50.5	+13.8	53.8	78.8%	+19.7	87.3%
+7	Tennessee	Auburn	home	-15	47	-13.9	53.1	78.9%	-23.2	91.0%
+7	Minnesota	Ohio State	home	-30	59.5	-23.5	54.9	91.3%	-20.1	87.7%
+7	Nebraska	Northwestern	home	-4.5	59	-6.3	53.9	64.2%	-14.6	80.0%
+7	Oklahoma State	Kansas State	home	+7	62	+17.2	62.6	83.9%	+18.3	85.5%
+7	Duke	Georgia Tech	home	-3	54.5	+1.3	63.6	53.0%	+8.9	69.6%
+7	Louisville	Boston College	home	-13.5	61	-14.3	57.1	79.5%	-20.8	88.5%
+7	UAB	Rice	home	+16.5	52.5	+24.7	56.0	92.3%	+12.3	76.2%
+7	Southern Miss	North Texas	home	-9	57	-9.0	49.1	69.8%	-14.2	79.4%
+7	Troy	Liberty	home	+9.5	63.5	+10.9	71.5	73.5%	+5.0	61.4%
+7	Kent State	Miami-OH	home	-11	59	-15.4	60.4	81.3%	-11.0	73.8%
+7	Pittsburgh	Notre Dame	home	-21	54	-22.1	57.5	89.9%	-26.6	93.8%
+7	Ball State	Central Michigan	home	-3	53.5	+0.6	45.4	51.4%	-1.9	54.5%
+7	Western Michigan	Bowling Green	home	+15	70	+18.7	73.5	85.9%	+8.3	68.4%
+7	Army	San Jose State	neutral	+15	52	+14.5	62.3	80.0%	+17.7	84.6%
+7	Marshall	Old Dominion	home	+3.5	59.5	+8.0	57.9	67.9%	+5.7	63.0%
+7	Central Florida	Memphis	home	+4.5	81	+6.3	67.9	64.2%	+8.9	69.7%
+7	Georgia	LSU	home	+7.5	50.5	+9.1	58.3	70.1%	+0.4	50.9%
+7	Texas A&M	South Carolina	home	+2.5	52	+5.5	54.1	62.5%	+3.7	58.5%
+7	Washington	Oregon	home	+3	57.5	+6.4	61.2	64.3%	+10.5	72.8%
+7	Michigan State	Penn State	home	-13.5	53.5	-14.7	56.9	80.2%	-6.3	64.1%
+7	Baylor	Texas	home	-14	60.5	-9.6	63.8	71.1%	-16.2	82.5%
+7	Ohio	Northern Illinois	home	-4	4	-4.5	59.5	60.3%	-4.7	60.7%
+7	Purdue	Illinois	home	+10.5	62	+9.5	65.0	70.8%	+14.2	79.5%
+7	Temple	Navy	home	+7	49	+9.1	59.3	70.1%	+15.7	81.8%
+7	Western Kentucky	Charlotte	home	+7.5	44	+8.4	49.1	68.5%	+5.2	61.8%
+7	New Mexico	Colorado State	home	-0	65.5	+7.6	67.2	67.0%	+7.1	66.0%
+7	UNLV	Utah State	home	-27.5	63.5	-23.9	61.8	91.7%	-25.5	93.0%
+7	New Mexico State	UL-Lafayette	home	-8.5	68.5	-9.0	65.8	69.9%	-3.4	57.8%
+7	UL-Monroe	Coastal Carolina	home	-6.5	66	-11.4	73.2	74.5%	-6.3	64.1%
+7	UCLA	California	home	-7	52	-10.3	47.1	72.5%	-8.7	69.3%
+7	Houston	East Carolina	home	+16	69.5	+20.1	58.2	87.8%	+20.7	88.4%
+7	Louisiana Tech	UTSA	home	+11.5	45	+11.3	52.1	74.4%	+12.9	77.1%
+7	Missouri	Alabama	home	-28.5	73.5	-19.6	69.1	87.1%	-10.7	73.3%
+7	Miami-FL	Virginia	home	+6.5	47.5	+4.9	55.0	61.1%	+5.4	62.2%
+7	West Virginia	Iowa State	home	+6.5	56	+8.8	60.4	69.5%	+6.2	64.0%
+7	Virginia Tech	North Carolina	home	+6	57.5	+9.4	57.8	70.6%	+18.1	85.2%
+7	Middle Tennessee	Florida International	home	-2.5	56.5	-4.0	61.4	59.2%	-6.4	64.3%
+7	Wisconsin	Michigan	home	-8.5	49	-9.9	60.5	71.7%	-3.3	57.5%
+7	Ole Miss	Arkansas	home	+7	69.5	+6.0	68.6	63.6%	+8.2	68.3%
+7	Hawaii	BYU	home	-11.5	57	-3.6	61.2	58.3%	-5.4	62.3%
+7	Boise State	Nevada	home	+17	60.5	+11.9	57.6	75.5%	+18.7	86.1%
+7	Wyoming	Fresno State	home	-18	43	-20.7	49.1	88.4%	-21.3	89.1%
+7	Colorado	USC	home	-7	57	-4.4	57.6	60.1%	-5.3	62.0%
+8	Georgia State	Arkansas State	home	-14	57.5	-12.8	59.0	77.1%	-9.8	71.5%
+8	Stanford	Arizona State	home	+2.5	57.5	+1.9	59.2	54.4%	+3.3	57.5%
+8	Colorado State	Boise State	home	-23.5	63	-20.2	59.2	87.9%	-23.4	91.2%
+8	Air Force	UNLV	home	+10	57.5	-0.1	57.3	50.3%	+1.9	54.4%
+8	Tulsa	Arkansas	home	-7	55.5	-6.3	56.5	64.3%	-3.8	58.6%
+8	Miami-OH	Army	home	-7.5	48	-0.7	59.1	51.6%	-8.0	67.8%
+8	Auburn	Ole Miss	home	+4	62.5	+1.1	61.2	52.6%	+4.6	60.4%
+8	Buffalo	Toledo	home	+1	62	+4.9	64.1	61.2%	+14.2	79.3%
+8	Maryland	Iowa	home	-9.5	47	-10.6	52.0	73.0%	-13.8	78.7%
+8	Illinois	Wisconsin	home	-25	57.5	-24.4	67.2	92.1%	-29.1	95.4%
+8	Michigan	Michigan State	home	+7.5	40.5	+9.6	48.7	71.1%	+1.2	52.9%
+8	Oklahoma	TCU	home	+8.5	62	+11.9	62.7	75.3%	+8.6	69.1%
+8	Northwestern	Rutgers	home	+20	49	+13.3	48.5	77.9%	+19.5	87.0%
+8	Cincinnati	Temple	home	-3	48.5	-0.8	48.3	51.7%	+0.6	51.3%
+8	North Carolina	Syracuse	home	-9.5	67	-9.2	54.7	70.3%	-17.7	84.7%
+8	Virginia	Duke	home	-7	44.5	-5.4	52.8	62.2%	-9.3	70.4%
+8	Bowling Green	Ohio	home	-16.5	70	-16.5	80.3	83.0%	-14.2	79.4%
+8	Florida Atlantic	Marshall	home	+3	62.5	-3.5	59.0	58.0%	-7.9	67.6%
+8	Utah State	Wyoming	home	+15.5	51	+16.7	57.3	83.2%	+21.7	89.5%
+8	Eastern Michigan	Ball State	home	+3	48	+8.0	55.5	67.8%	+10.2	72.1%
+8	Charlotte	Middle Tennessee	home	-16.5	48.5	-12.1	52.1	75.8%	-9.1	70.0%
+8	Western Michigan	Central Michigan	home	+4	55	+7.2	52.8	66.1%	+4.5	60.2%
+8	Akron	Kent State	home	+5	53	+0.0	53.8	50.0%	+4.7	60.8%
+8	UL-Lafayette	Appalachian State	home	-25.5	68	-23.6	69.8	91.4%	-29.9	95.8%
+8	Wake Forest	Florida State	home	-10.5	60	-5.5	50.7	62.5%	-10.0	71.8%
+8	Houston	Navy	home	+12	60.5	+15.2	66.8	81.0%	+18.3	85.4%
+8	UTEP	Louisiana Tech	home	-23.5	48	-19.8	54.0	87.4%	-17.2	84.0%
+8	Coastal Carolina	Massachusetts	home	-3	71.5	-1.5	76.3	53.6%	-2.4	55.6%
+8	Minnesota	Nebraska	home	-3.5	56	+1.9	52.6	54.3%	+4.8	60.9%
+8	Alabama	Tennessee	home	+29	57.5	+24.3	65.3	92.0%	+16.8	83.4%
+8	Colorado	Washington	home	-15.5	51.5	-15.0	56.0	80.6%	-11.0	73.7%
+8	Penn State	Indiana	home	+15	61.5	+14.4	54.8	79.7%	+11.2	74.2%
+8	NC State	Clemson	home	-17	56	-14.4	56.0	79.8%	-6.0	63.6%
+8	Kansas	Texas Tech	home	-18.5	58.5	-19.0	61.2	86.4%	-24.5	92.1%
+8	SMU	Tulane	home	-7	58	-9.1	55.3	70.0%	-9.5	70.8%
+8	California	Oregon State	home	+7	58.5	+9.3	55.5	70.4%	+8.4	68.7%
+8	Memphis	Missouri	home	-10	74	-0.4	68.2	51.0%	-8.8	69.4%
+8	Georgia Southern	New Mexico State	home	+11	55	+11.2	57.0	74.2%	+7.9	67.7%
+8	Central Florida	East Carolina	home	+21.5	64.5	+25.7	54.7	93.2%	+25.4	92.9%
+8	Connecticut	South Florida	home	-34	69	-34.5	68.5	97.7%	-25.1	92.7%
+8	Mississippi State	LSU	home	-7	45	-2.5	50.1	55.8%	-4.6	60.4%
+8	UTSA	Southern Miss	home	-17.5	44	-18.0	43.2	85.0%	-14.1	79.3%
+8	Texas State	UL-Monroe	home	-10.5	61	-2.2	56.5	55.1%	-0.5	51.1%
+8	Rice	Florida International	home	-24	53.5	-20.2	57.8	87.8%	-12.9	77.3%
+8	Fresno State	New Mexico	home	+13	54	+15.5	56.9	81.4%	+17.4	84.3%
+8	Vanderbilt	Kentucky	home	-11.5	48	-16.4	49.4	82.8%	-22.0	89.9%
+8	Ohio State	Purdue	home	+13.5	68.5	+10.1	68.2	71.9%	+5.1	61.5%
+8	Oregon	Washington State	home	-3	68	-3.1	68.5	57.1%	-2.9	56.7%
+8	North Texas	UAB	home	-1.5	54.5	+0.1	53.5	50.3%	+5.7	63.0%
+8	Old Dominion	Western Kentucky	home	-5	55	-3.4	58.6	57.7%	-2.4	55.4%
+8	USC	Utah	home	-7	48	-4.0	50.1	59.2%	-4.1	59.5%
+8	San Jose State	San Diego State	home	-28	42.5	-24.7	45.3	92.3%	-27.4	94.4%
+8	Arizona	UCLA	home	-8	56	-4.5	56.6	60.2%	-5.5	62.4%
+8	Nevada	Hawaii	home	-3	67	-0.2	66.0	50.4%	-0.5	51.1%
+9	Troy	South Alabama	home	+11	52.5	+11.2	63.4	74.0%	+10.2	72.3%
+9	Toledo	Western Michigan	home	-6.5	68	-4.0	67.6	59.2%	-8.0	67.9%
+9	Ball State	Ohio	home	-11	64	-12.2	67.8	76.0%	-14.5	79.8%
+9	Baylor	West Virginia	home	-14	67.5	-10.9	68.1	73.6%	-14.5	80.0%
+9	Appalachian State	Georgia Southern	home	+10	48	+11.6	58.4	74.9%	+14.3	79.6%
+9	Georgia Tech	Virginia Tech	home	-3	58	-4.9	64.9	61.2%	-7.8	67.5%
+9	Louisiana Tech	Florida Atlantic	home	-3.5	58	-3.7	60.3	58.5%	+1.9	54.4%
+9	Miami-FL	Boston College	home	+3.5	49.5	+5.1	50.9	61.5%	+7.7	67.1%
+9	Indiana	Minnesota	home	+2.5	54	-2.1	52.9	54.7%	+1.6	53.8%
+9	Wyoming	Colorado State	home	-2	46	+3.2	55.2	57.4%	+2.7	56.2%
+9	Utah	UCLA	home	+10.5	55	+12.3	54.9	76.1%	+16.4	82.9%
+9	Clemson	Florida State	home	+17	51	+19.1	48.9	86.6%	+16.4	82.8%
+9	Wisconsin	Northwestern	home	+7	51	+11.3	59.3	74.3%	+5.2	61.8%
+9	Massachusetts	Connecticut	home	+5	69.5	+10.7	76.0	73.2%	+1.5	53.5%
+9	Vanderbilt	Arkansas	home	+1.5	52	-4.5	54.6	60.2%	-2.5	55.7%
+9	Army	Eastern Michigan	home	-1	48	-4.5	61.9	60.3%	-2.2	55.1%
+9	Purdue	Michigan State	home	-1.5	50	+1.3	56.6	52.9%	+0.3	50.6%
+9	Wake Forest	Louisville	home	-2.5	65	-2.6	56.6	55.9%	-1.9	54.4%
+9	Texas Tech	Iowa State	home	-3.5	56	-0.9	60.3	52.0%	-2.1	54.9%
+9	Central Michigan	Akron	home	-4.5	45	-4.7	41.8	60.6%	-4.9	61.0%
+9	North Carolina	Virginia	home	-9	51	-11.6	50.4	74.8%	-19.9	87.4%
+9	Southern Miss	Charlotte	home	+7.5	44	+9.9	45.7	71.6%	+7.5	66.7%
+9	Coastal Carolina	Georgia State	home	+3.5	58	+3.9	71.5	58.9%	+0.9	52.1%
+9	TCU	Kansas	home	+13.5	49	+12.1	50.0	75.7%	+11.6	74.9%
+9	Oregon State	Colorado	home	-24.5	63	-17.2	65.8	84.0%	-24.6	92.3%
+9	Cincinnati	SMU	home	+9	49.5	+12.7	50.5	76.8%	+21.7	89.5%
+9	Middle Tennessee	Old Dominion	home	+4	59.5	+4.8	60.0	61.0%	+1.0	52.4%
+9	Duke	Pittsburgh	home	+3	46	+7.7	54.6	67.1%	+17.0	83.7%
+9	Arizona State	USC	home	-6	54.5	-5.1	56.1	61.7%	-3.7	58.5%
+9	Iowa	Penn State	home	-6.5	51.5	-5.4	51.6	62.2%	-2.7	56.2%
+9	Florida	Georgia	neutral	-7	52	-6.3	57.1	64.2%	-2.3	55.2%
+9	Northern Illinois	BYU	home	-7	43.5	-2.4	45.2	55.6%	+1.9	54.3%
+9	South Florida	Houston	home	-7.5	75	-5.7	65.2	62.8%	-12.4	76.3%
+9	Illinois	Maryland	home	-18	52	-13.5	56.9	78.3%	-16.9	83.5%
+9	Kansas State	Oklahoma	home	-24.5	64	-27.9	67.1	94.6%	-26.4	93.6%
+9	Kentucky	Missouri	home	-7	55	-3.4	53.6	57.8%	-1.5	53.5%
+9	New Mexico	Utah State	home	-20.5	63.5	-16.7	61.3	83.3%	-22.3	90.1%
+9	Rice	North Texas	home	-30	55.5	-31.3	57.9	96.5%	-30.7	96.2%
+9	Washington	California	home	+12	45	+11.7	46.3	75.0%	+16.1	82.4%
+9	UNLV	San Jose State	home	-2.5	60	+2.6	59.1	55.9%	+0.1	50.2%
+9	Boise State	Air Force	home	+9.5	58	+11.9	56.4	75.3%	+14.4	79.8%
+9	Arkansas State	UL-Lafayette	home	+3	70.5	+0.9	66.1	52.0%	+2.7	56.1%
+9	NC State	Syracuse	home	+2.5	65	+1.1	56.1	52.6%	+2.7	56.2%
+9	Texas A&M	Mississippi State	home	-2	45	-2.0	49.2	54.6%	-4.3	59.7%
+9	Tulane	Tulsa	home	-2.5	50.5	-1.9	50.2	54.5%	-5.2	61.8%
+9	New Mexico State	Texas State	home	-3	55	-5.4	52.3	62.4%	-4.7	60.7%
+9	Washington State	Stanford	home	-3	53	+1.5	60.7	53.4%	+1.5	53.5%
+9	UAB	UTEP	home	+16	49	+19.2	50.8	86.7%	+15.5	81.4%
+9	Florida International	Western Kentucky	home	+3.5	54	+2.0	58.1	54.5%	+1.9	54.3%
+9	Tennessee	South Carolina	home	-7.5	54.5	-7.0	60.3	65.8%	-15.2	81.0%
+9	Notre Dame	Navy	neutral	+23.5	54.5	+23.5	59.5	91.2%	+29.5	95.6%
+9	Texas	Oklahoma State	home	+3.5	59.5	-6.8	59.1	65.2%	-0.2	50.4%
+9	Oregon	Arizona	home	+9.5	65	+6.3	62.3	64.2%	+11.5	74.7%
+9	San Diego State	Nevada	home	+3	47.5	+3.0	48.3	56.8%	+6.3	64.1%
+9	Hawaii	Fresno State	home	-24	59.5	-26.3	60.5	93.6%	-30.2	96.0%
+10	Kent State	Bowling Green	home	-1.5	68	+1.7	71.1	53.9%	-0.9	52.1%
+10	Miami-OH	Buffalo	home	-7	53	-6.9	50.9	65.5%	-11.4	74.5%
+10	Ball State	Toledo	home	-19	65	-15.7	65.9	81.8%	-14.3	79.5%
+10	Northern Illinois	Akron	home	+6	37	+6.1	38.4	63.7%	+6.5	64.7%
+10	Ohio	Western Michigan	home	+2.5	65	+0.0	73.3	50.1%	+4.9	61.3%
+10	Temple	Central Florida	home	-11	61	-10.6	52.3	72.9%	-7.9	67.6%
+10	Pittsburgh	Virginia	home	-7	48	-8.6	57.0	69.0%	-13.7	78.6%
+10	Western Kentucky	Middle Tennessee	home	-13.5	53	-11.2	53.7	74.0%	-8.8	69.5%
+10	Colorado	Arizona	home	-3	58	-0.7	55.9	51.6%	+0.1	50.2%
+10	Air Force	Army	home	-7	44	-6.3	60.8	64.3%	-13.4	78.1%
+10	Central Michigan	Eastern Michigan	home	-13.5	46.5	-16.3	49.5	82.6%	-16.5	82.9%
+10	Louisville	Clemson	home	-39	61	-33.8	55.4	97.5%	-36.2	98.2%
+10	Memphis	East Carolina	home	+13	64.5	+13.9	58.1	78.9%	+9.7	71.2%
+10	Michigan State	Maryland	home	+2.5	46	+1.1	47.1	52.5%	+8.8	69.4%
+10	Nebraska	Ohio State	home	-17.5	73	-15.4	63.4	81.3%	-17.4	84.2%
+10	Syracuse	Wake Forest	home	+6	75.5	+5.3	63.5	62.0%	+15.1	80.8%
+10	Texas A&M	Auburn	home	-4	49	-5.8	48.1	63.0%	-7.9	67.7%
+10	Iowa State	Kansas	home	+14.5	46	+14.5	52.9	79.9%	+22.5	90.3%
+10	Oklahoma State	Baylor	home	+7.5	68	+8.5	66.9	68.9%	+12.6	76.7%
+10	Rutgers	Wisconsin	home	-28	50.5	-29.2	54.9	95.4%	-29.8	95.8%
+10	South Carolina	Ole Miss	home	+1	67	-4.3	67.6	59.7%	+1.3	53.0%
+10	Georgia Tech	North Carolina	home	+6	61.5	+3.1	64.1	57.2%	+8.1	68.0%
+10	San Jose State	Wyoming	home	-14	39.5	-13.5	49.9	78.2%	-9.6	71.0%
+10	Texas State	Georgia State	home	-5.5	52	-0.0	55.9	50.1%	-0.7	51.6%
+10	Georgia Southern	UL-Monroe	home	+7.5	57.5	+9.5	62.2	70.9%	+16.5	82.9%
+10	Marshall	Southern Miss	home	+3	47	+0.3	42.9	50.6%	+0.0	50.0%
+10	South Alabama	Arkansas State	home	-16	63.5	-12.4	62.3	76.2%	-10.2	72.1%
+10	Florida State	NC State	home	-9	53.5	-8.6	51.8	69.1%	-16.7	83.3%
+10	Kansas State	TCU	home	-8	46	-13.2	54.3	77.8%	-17.2	83.9%
+10	Liberty	Massachusetts	home	-2.5	71.5	-4.5	70.3	60.2%	+0.5	51.2%
+10	Minnesota	Illinois	home	+9.5	63	+11.2	59.8	74.2%	+16.4	82.8%
+10	Navy	Cincinnati	home	-13	50	-17.5	57.7	84.4%	-25.6	93.1%
+10	West Virginia	Texas	home	-2	58	+4.0	62.0	59.2%	+2.2	55.1%
+10	Iowa	Purdue	home	-3	50.5	-0.8	53.7	51.7%	-0.8	51.9%
+10	Georgia	Kentucky	home	+9	44	+9.0	48.7	69.8%	+2.0	54.6%
+10	Tulane	South Florida	home	-7	59.5	-13.7	57.5	78.6%	-11.2	74.2%
+10	UL-Lafayette	Troy	home	-10.5	64	-9.3	70.0	70.4%	-14.2	79.4%
+10	UTEP	Rice	home	-1	45	+2.2	52.4	55.1%	+0.6	51.3%
+10	Penn State	Michigan	home	-10.5	52.5	-8.5	50.8	68.8%	-4.4	60.0%
+10	Boston College	Virginia Tech	home	+2.5	57	+0.5	58.7	51.3%	+4.6	60.4%
+10	Charlotte	Tennessee	home	-21	46.5	-13.4	56.6	78.0%	-12.9	77.3%
+10	Missouri	Florida	home	-6	58	-4.8	58.4	60.9%	-4.9	61.2%
+10	Utah	Arizona State	home	+7	56	+8.7	56.7	69.2%	+8.6	69.1%
+10	Appalachian State	Coastal Carolina	home	+14.5	58	+17.3	65.2	84.2%	+21.5	89.2%
+10	Connecticut	Tulsa	home	-18	58.5	-17.5	61.9	84.4%	-12.6	76.7%
+10	Duke	Miami-FL	home	-9.5	51	-7.9	52.0	67.5%	-5.0	61.4%
+10	Houston	SMU	home	+14	71.5	+12.8	62.0	77.0%	+19.7	87.2%
+10	Notre Dame	Northwestern	home	+9.5	53.5	+13.2	47.2	77.7%	+7.9	67.6%
+10	Florida Atlantic	Florida International	home	-3	59	+2.1	59.0	54.9%	-2.4	55.4%
+10	Louisiana Tech	Mississippi State	home	-23.5	48	-16.9	50.1	83.5%	-20.0	87.6%
+10	UCLA	Oregon	home	-10.5	60.5	-10.6	60.8	73.0%	-13.5	78.2%
+10	UTSA	UAB	home	-22	43	-24.4	45.9	92.1%	-26.7	93.9%
+10	Alabama	LSU	home	+14.5	54	+11.0	56.5	73.8%	-0.5	51.1%
+10	Oklahoma	Texas Tech	home	+13.5	77	+12.0	72.0	75.5%	+5.1	61.6%
+10	Stanford	Washington	home	-10	46.5	-13.0	53.3	77.3%	-11.2	74.2%
+10	USC	Oregon State	home	+16.5	61	+15.7	64.7	81.8%	+17.5	84.3%
+10	BYU	Boise State	home	-13	55	-12.7	56.7	76.8%	-19.1	86.5%
+10	San Diego State	New Mexico	home	+10.5	48	+9.8	52.2	71.4%	+18.0	85.1%
+10	Fresno State	UNLV	home	+25	58.5	+24.8	62.0	92.4%	+27.3	94.3%
+10	California	Washington State	home	-10	50	-9.4	54.0	70.6%	-14.2	79.4%
+10	Utah State	Hawaii	home	+18	70.5	+16.6	65.2	83.2%	+22.2	90.0%
+11	Kent State	Buffalo	home	-20.5	44.5	-23.4	58.0	91.2%	-27.0	94.0%
+11	Ohio	Miami-OH	home	+3.5	61	+1.3	65.3	53.0%	+4.8	61.0%
+11	Toledo	Northern Illinois	home	-3	55.5	-0.1	53.7	50.1%	-3.9	59.0%
+11	Wake Forest	NC State	home	-17.5	69	-13.1	62.0	77.6%	-22.7	90.6%
+11	Louisville	Syracuse	home	-21.5	69	-16.4	60.1	82.9%	-24.8	92.4%
+11	Fresno State	Boise State	home	+3	54	+8.7	57.6	69.3%	+4.6	60.4%
+11	Akron	Eastern Michigan	home	-12.5	43.5	-15.9	49.3	82.1%	-14.9	80.5%
+11	BYU	Massachusetts	home	+14	59.5	+7.2	59.6	66.2%	+8.9	69.7%
+11	Illinois	Nebraska	home	-17	67.5	-15.7	63.9	81.8%	-18.9	86.2%
+11	Kansas	Kansas State	home	-10.5	45	-10.7	54.7	73.2%	-7.1	66.0%
+11	Maryland	Indiana	home	-1	55	+0.6	52.1	51.5%	-2.6	56.0%
+11	Navy	Central Florida	home	-25.5	63	-33.4	66.6	97.3%	-35.1	97.9%
+11	Ohio State	Michigan State	home	+3.5	52	+5.1	55.1	61.7%	-1.0	52.4%
+11	Ole Miss	Texas A&M	home	-11.5	67	-7.7	67.2	67.2%	-7.0	65.8%
+11	SMU	Connecticut	home	+19.5	66	+19.5	64.9	87.0%	+9.7	71.3%
+11	South Carolina	Florida	home	-6	54	-8.8	58.4	69.5%	-6.8	65.3%
+11	TCU	West Virginia	home	-12	56	-10.4	58.4	72.6%	-12.6	76.6%
+11	Tulsa	Memphis	home	-15.5	65.5	-16.2	62.4	82.6%	-11.5	74.7%
+11	Vanderbilt	Missouri	home	-17	62	-15.5	59.7	81.5%	-17.8	84.9%
+11	Wisconsin	Penn State	home	-9	55.5	-2.5	59.4	55.8%	-6.3	64.3%
+11	North Carolina	Duke	home	-10	58.5	-15.6	56.2	81.7%	-21.6	89.4%
+11	Troy	Georgia Southern	home	+1	45	+2.1	59.7	54.7%	+1.3	53.0%
+11	North Texas	Old Dominion	home	+14.5	66	+20.3	62.7	88.0%	+23.0	90.8%
+11	UCLA	Arizona State	home	-13.5	60	-13.1	61.4	77.5%	-17.6	84.6%
+11	Charlotte	Marshall	home	-14.5	41.5	-22.2	41.8	90.1%	-18.8	86.2%
+11	Bowling Green	Central Michigan	home	-7.5	51	-8.1	56.4	68.1%	-7.1	65.9%
+11	Liberty	Virginia	home	-23.5	60.5	-19.2	62.0	86.7%	-20.5	88.2%
+11	Middle Tennessee	UTEP	home	+13.5	48	+13.4	51.2	78.0%	+6.3	64.1%
+11	Baylor	Iowa State	home	-14.5	51	-13.1	58.7	77.5%	-21.0	88.7%
+11	New Mexico	Air Force	home	-13.5	56.5	-8.7	58.3	69.3%	-11.3	74.3%
+11	Mississippi State	Alabama	home	-24	54	-17.8	55.8	84.8%	-6.1	63.7%
+11	Michigan	Rutgers	home	+39.5	48.5	+41.9	45.3	99.2%	+33.2	97.3%
+11	Washington State	Colorado	home	+6.5	60.5	+11.0	61.6	73.7%	+11.3	74.4%
+11	Kentucky	Tennessee	home	+6.5	42.5	+7.3	50.3	66.3%	+15.8	81.9%
+11	Northwestern	Iowa	home	-10.5	44	-11.9	47.6	75.4%	-10.6	73.0%
+11	Oklahoma State	Oklahoma	home	-20.5	77	-16.5	73.5	82.9%	-13.6	78.3%
+11	Purdue	Minnesota	home	+12.5	58	+8.4	60.4	68.6%	+15.2	81.0%
+11	Virginia Tech	Pittsburgh	home	-3	52	+0.3	62.3	50.6%	-3.0	56.8%
+11	Appalachian State	Texas State	home	+21	48	+21.3	47.2	89.1%	+21.0	88.8%
+11	East Carolina	Tulane	home	-14	57	-11.8	49.5	75.3%	-9.4	70.6%
+11	San Jose State	Utah State	home	-31	63	-35.8	55.4	98.1%	-32.6	97.0%
+11	Arkansas State	Coastal Carolina	home	+6.5	62	+9.9	65.9	71.6%	+5.8	63.2%
+11	Western Kentucky	Florida Atlantic	home	-20.5	55.5	-18.9	54.9	86.3%	-16.2	82.5%
+11	Georgia State	UL-Lafayette	home	-14	67.5	-12.4	72.4	76.3%	-6.2	64.0%
+11	UL-Monroe	South Alabama	home	+6.5	61.5	+4.5	63.7	60.3%	+1.4	53.2%
+11	Oregon	Utah	home	-4	56	-11.2	59.0	74.1%	-12.9	77.1%
+11	Auburn	Georgia	home	-14.5	50	-12.9	52.9	77.3%	-7.7	67.2%
+11	Florida International	UTSA	home	+10.5	48	+11.4	52.4	74.5%	+5.9	63.3%
+11	Miami-FL	Georgia Tech	home	-3.5	55.5	+6.7	58.7	65.1%	+4.1	59.4%
+11	Rice	Louisiana Tech	home	-24.5	52	-23.4	57.2	91.2%	-13.5	78.2%
+11	South Florida	Cincinnati	home	-14	57	-8.2	54.0	68.2%	-17.0	83.7%
+11	Temple	Houston	home	-4.5	69	-3.0	60.6	56.9%	+0.2	50.6%
+11	Florida State	Notre Dame	home	-18	54.5	-22.9	48.7	90.7%	-24.2	91.9%
+11	Texas	Texas Tech	home	+2	64	-3.9	65.9	58.9%	-3.0	56.8%
+11	LSU	Arkansas	home	+14	47.5	+9.9	53.1	71.7%	+17.2	83.9%
+11	Southern Miss	UAB	home	-12	46.5	-11.9	44.1	75.4%	-13.8	78.7%
+11	Clemson	Boston College	home	+20.5	58	+18.6	52.1	85.9%	+7.3	66.3%
+11	Oregon State	Stanford	home	-24	59	-26.7	66.4	93.9%	-27.8	94.6%
+11	California	USC	home	-5.5	48.5	-8.4	47.9	68.5%	-6.8	65.3%
+11	Colorado State	Nevada	home	-14	65	-14.6	63.0	80.1%	-16.0	82.2%
+11	UNLV	San Diego State	home	-22.5	54.5	-24.1	54.8	91.8%	-26.1	93.5%

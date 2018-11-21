@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ac99593-6c7c-4830-936a-b8bfa57ee786" name="Default Changelist" comment="Calculated aPPDs no longer include garbage time">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/SimulateSeason-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/SimulateSeason-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/.idea/Data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/.ipynb_checkpoints/TeamDataScraping-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/TeamDataScraping.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/fbsTeams.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w10_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w10_2018.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w11_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w11_2018.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w12_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w13_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w14_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w15_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w4_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w4_2018.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w5_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w5_2018.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w6_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w6_2018.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w7_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w7_2018.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w8_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w8_2018.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w9_2017.tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/teams_aPPD_w9_2018.tsv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/SimulateSeason.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SimulateSeason.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aPPD.py" beforeDir="false" afterPath="$PROJECT_DIR$/aPPD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lineData.py" beforeDir="false" afterPath="$PROJECT_DIR$/lineData.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/util.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,15 +48,16 @@
     <session id="734281141">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="4" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,7 +81,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="md" value="26" />
-          <entry key="py" value="8488" />
+          <entry key="py" value="8518" />
           <entry key="txt" value="179" />
         </counts>
       </usages-collector>
@@ -61,46 +89,37 @@
         <counts>
           <entry key="Markdown" value="26" />
           <entry key="PLAIN_TEXT" value="179" />
-          <entry key="Python" value="8488" />
+          <entry key="Python" value="8518" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aPPD.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="252" column="33" selection-start-line="252" selection-start-column="33" selection-end-line="252" selection-end-column="33" />
+            <state relative-caret-position="4148">
+              <caret line="247" column="10" selection-start-line="247" selection-start-column="10" selection-end-line="247" selection-end-column="10" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1542071844899" expanded="true" signature="154:692" ph="..." />
-                <marker date="1542071844899" expanded="true" signature="2065:4722" ph="..." />
+                <marker date="1542215946502" expanded="true" signature="154:692" ph="..." />
+                <marker date="1542215946502" expanded="true" signature="2065:4722" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w5_2018.tsv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lineData.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
-              <caret line="87" column="2" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
+            <state relative-caret-position="119">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <marker date="1542070185359" expanded="true" signature="257:301" ph="..." />
-                <marker date="1542070185359" expanded="true" signature="1526:2576" ph="..." />
-                <marker date="1542070185359" expanded="true" signature="2573:2576" ph="..." />
+                <marker date="1542216050142" expanded="true" signature="257:301" ph="..." />
+                <marker date="1542216050142" expanded="true" signature="1526:2576" ph="..." />
+                <marker date="1542216050142" expanded="true" signature="2573:2576" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,11 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-              <folding>
-                <marker date="1542056106696" expanded="true" signature="114:119" ph="..." />
-              </folding>
+            <state relative-caret-position="935">
+              <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -136,8 +152,8 @@
         <option value="$PROJECT_DIR$/AverageDrives.ipynb" />
         <option value="$PROJECT_DIR$/util.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/lineData.py" />
         <option value="$PROJECT_DIR$/aPPD.py" />
+        <option value="$PROJECT_DIR$/lineData.py" />
       </list>
     </option>
   </component>
@@ -174,7 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,15 +197,11 @@
               <item name="CFB" type="b2602c69:ProjectViewProjectNode" />
               <item name="CFB" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CFB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CFB" type="462c0819:PsiDirectoryNode" />
-              <item name="Data" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,7 +324,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1641791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -350,13 +361,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Calculated aPPDs no longer include garbage time" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AverageDrives.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/AverageDrives.ipynb" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -364,40 +369,10 @@
     <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w1.tsv" />
     <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w2.tsv" />
     <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w3.tsv" />
-    <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w4_2018.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/2018drives_augmented.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w10_2018.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week11predictions.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
-          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-          <folding>
-            <marker date="1542056106696" expanded="true" signature="114:119" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w4_2018.tsv" />
+    <entry file="file://$PROJECT_DIR$/Data/2018drives_augmented.tsv" />
+    <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w10_2018.tsv" />
+    <entry file="file://$PROJECT_DIR$/week11predictions.csv" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -408,34 +383,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w5_2018.tsv">
+    <entry file="file://$PROJECT_DIR$/Data/teams_aPPD_w5_2018.tsv" />
+    <entry file="file://$PROJECT_DIR$/aPPD.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        <state relative-caret-position="4148">
+          <caret line="247" column="10" selection-start-line="247" selection-start-column="10" selection-end-line="247" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1542215946502" expanded="true" signature="154:692" ph="..." />
+            <marker date="1542215946502" expanded="true" signature="2065:4722" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="40" selection-start-line="55" selection-start-column="40" selection-end-line="55" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lineData.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="87" column="2" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
+        <state relative-caret-position="119">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-            <marker date="1542070185359" expanded="true" signature="257:301" ph="..." />
-            <marker date="1542070185359" expanded="true" signature="1526:2576" ph="..." />
-            <marker date="1542070185359" expanded="true" signature="2573:2576" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aPPD.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="252" column="33" selection-start-line="252" selection-start-column="33" selection-end-line="252" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1542071844899" expanded="true" signature="154:692" ph="..." />
-            <marker date="1542071844899" expanded="true" signature="2065:4722" ph="..." />
+            <marker date="1542216050142" expanded="true" signature="257:301" ph="..." />
+            <marker date="1542216050142" expanded="true" signature="1526:2576" ph="..." />
+            <marker date="1542216050142" expanded="true" signature="2573:2576" ph="..." />
           </folding>
         </state>
       </provider>
